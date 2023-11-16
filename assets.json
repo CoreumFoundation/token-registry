@@ -1,0 +1,30 @@
+{
+    "assets": [
+        {
+            "denom": "ucore",
+            "ibc_info": {
+                "display_name": "Core",
+                "precision": 6
+            },
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/coreum/token-registry/master/files/coreum/images/coreum.png",
+                "svg": "https://raw.githubusercontent.com/coreum/token-registry/master/files/coreum/images/coreum.svg"
+            },
+            "urls": {
+                "website": "https://www.coreum.com/",
+                "github": "https://github.com/CoreumFoundation/coreum",
+                "whitepaper": "https://www.coreum.com/assets/coreum_technical_paper.pdf",
+                "audit_report": "https://skynet.certik.com/projects/coreum"
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": ""
+            }
+        }
+    ]
+}

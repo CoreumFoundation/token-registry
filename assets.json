@@ -17,13 +17,14 @@
                 "audit_report": "https://skynet.certik.com/projects/coreum"
             },
             "social_media": {
-                "linkedin": "",
-                "twitter": "",
-                "instagram": "",
-                "facebook": "",
-                "discord": "",
-                "youtube": "",
-                "telegram": ""
+                "linkedin": "https://www.linkedin.com/company/coreumofficial",
+                "twitter": "https://twitter.com/CoreumOfficial",
+                "instagram": "https://www.instagram.com/coreum.official/",
+                "facebook": "https://www.facebook.com/coreum_official",
+                "discord": "https://discord.gg/XdVAGKXEhg",
+                "youtube": "https://www.youtube.com/channel/UCIFix5W3gRgA4mSiXE268IA",
+                "telegram": "https://t.me/CoreumOfficial",
+                "tiktok": "https://www.tiktok.com/@sologenic.official"
             }
         }
     ]

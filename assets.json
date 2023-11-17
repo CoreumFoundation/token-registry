@@ -3,7 +3,7 @@
         {
             "denom": "ucore",
             "ibc_info": {
-                "display_name": "Core",
+                "display_name": "CORE",
                 "precision": 6
             },
             "logo_URIs": {

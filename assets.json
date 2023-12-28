@@ -1,10 +1,10 @@
 {
     "assets": [
         {
-            "denom": "coreum",
+            "denom": "ucore",
             "description": "",
             "ibc_info": {
-                "display_name": "COREUM",
+                "display_name": "Coreum",
                 "precision": 6
             },
             "logo_URIs": {

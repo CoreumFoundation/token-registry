@@ -1,12 +1,9 @@
 {
     "assets": [
         {
-            "denom": "ucore",
+            "denom": "udevcore",
             "description": "",
-            "ibc_info": {
-                "display_name": "CORE",
-                "precision": 6
-            },
+            "ibc_info": {},
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/coreum/token-registry/master/files/coreum/images/coreum.png",
                 "svg": "https://raw.githubusercontent.com/coreum/token-registry/master/files/coreum/images/coreum.svg"

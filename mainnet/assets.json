@@ -23,6 +23,58 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             }
+        },
+        {
+            "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
+            "description": "USDC from Noble",
+            "ibc_info": {
+
+            },
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.png",
+                "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.svg"
+            },
+            "urls": {
+                "website": "https://nobleassets.xyz",
+                "github": "https://github.com/noble-assets/noble",
+                "whitepaper": "#"
+            },
+            "social_media": {
+                "linkedin": "#",
+                "twitter": "https://twitter.com/noble_xyz",
+                "instagram": "#",
+                "facebook": "#",
+                "discord": "#",
+                "youtube": "#",
+                "telegram": "#",
+                "tiktok": "#"
+            }
+        },
+        {
+            "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
+            "description": "Osmo from Osmosis",
+            "ibc_info": {
+
+            },
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
+                "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg"
+            },
+            "urls": {
+                "website": "https://osmosis.zone",
+                "github": "https://github.com/osmosis-labs/osmosis",
+                "whitepaper": "https://medium.com/osmosis/vision-for-osmosis-e68e796ff1c2"
+            },
+            "social_media": {
+                "linkedin": "#",
+                "twitter": "https://twitter.com/osmosiszone",
+                "instagram": "#",
+                "facebook": "#",
+                "discord": "https://discord.com/invite/osmosis",
+                "youtube": "#",
+                "telegram": "https://t.me/osmosis_chat",
+                "tiktok": "#"
+            }
         }
     ]
 }

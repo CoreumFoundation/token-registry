@@ -37,17 +37,17 @@
             "urls": {
                 "website": "https://nobleassets.xyz",
                 "github": "https://github.com/noble-assets/noble",
-                "whitepaper": "#"
+                "whitepaper": ""
             },
             "social_media": {
-                "linkedin": "#",
+                "linkedin": "",
                 "twitter": "https://twitter.com/noble_xyz",
-                "instagram": "#",
-                "facebook": "#",
-                "discord": "#",
-                "youtube": "#",
-                "telegram": "#",
-                "tiktok": "#"
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
             }
         },
         {
@@ -66,14 +66,14 @@
                 "whitepaper": "https://medium.com/osmosis/vision-for-osmosis-e68e796ff1c2"
             },
             "social_media": {
-                "linkedin": "#",
+                "linkedin": "",
                 "twitter": "https://twitter.com/osmosiszone",
-                "instagram": "#",
-                "facebook": "#",
+                "instagram": "",
+                "facebook": "",
                 "discord": "https://discord.com/invite/osmosis",
-                "youtube": "#",
+                "youtube": "",
                 "telegram": "https://t.me/osmosis_chat",
-                "tiktok": "#"
+                "tiktok": ""
             }
         }
     ]

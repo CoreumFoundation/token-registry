@@ -28,7 +28,8 @@
             "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
             "description": "USDC from Noble",
             "ibc_info": {
-
+                "display_name": "USDC",
+                "precision": 6
             },
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/noble/images/USDCoin.png",
@@ -54,7 +55,8 @@
             "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
             "description": "Osmo from Osmosis",
             "ibc_info": {
-
+                "display_name": "Osmo",
+                "precision": 6
             },
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.png",

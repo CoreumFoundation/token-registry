@@ -29,7 +29,8 @@
             "description": "USDC from Noble",
             "ibc_info": {
                 "display_name": "USDC",
-                "precision": 6
+                "precision": 6,
+                "source_chain": "Noble"
             },
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/noble/images/USDCoin.png",
@@ -56,7 +57,8 @@
             "description": "Osmo from Osmosis",
             "ibc_info": {
                 "display_name": "Osmo",
-                "precision": 6
+                "precision": 6,
+                "source_chain": "Osmosis"
             },
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.png",

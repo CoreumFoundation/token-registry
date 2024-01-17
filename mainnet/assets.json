@@ -30,7 +30,7 @@
             "ibc_info": {
                 "display_name": "USDC",
                 "precision": 6,
-                "chain": "Noble"
+                "source_chain": "Noble"
             },
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/noble/images/USDCoin.png",
@@ -58,7 +58,7 @@
             "ibc_info": {
                 "display_name": "Osmo",
                 "precision": 6,
-                "chain": "Osmosis"
+                "source_chain": "Osmosis"
             },
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.png",

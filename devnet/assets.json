@@ -54,7 +54,7 @@
             "ibc_info": {
                 "display_name": "😄😆😆😅😂😂 Lorem Ipsum is simply dummy 😄😆😆😅😂😂 text of the 😄😆😆😅😂😂 printing and typesetting industry.😄😆😆😅😂😂 ",
                 "precision": 6,
-                "chain": "Osmosis"
+                "source_chain": "Osmosis"
             },
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",

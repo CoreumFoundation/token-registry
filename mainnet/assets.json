@@ -89,8 +89,8 @@
                 "source_chain": "Gravity Bridge"
             },
             "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/"
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/gravitybridge/images/grav.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/gravitybridge/images//grav.svg"
             },
             "urls": {
                 "website": "https://www.gravitybridge.net/",
@@ -117,8 +117,8 @@
                 "source_chain": "Kujira"
             },
             "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/"
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kujira/images//kuji.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kujira/images/kuji.svg"
             },
             "urls": {
                 "website": "https://kujira.network/",
@@ -145,8 +145,8 @@
                 "source_chain": "Band Protocol"
             },
             "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/"
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/banchain/images/band.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/banchain/images/band.svg"
             },
             "urls": {
                 "website": "https://www.bandprotocol.com/",
@@ -173,8 +173,8 @@
                 "source_chain": "Evmos"
             },
             "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/"
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/evmos/images/evmos.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/evmos/images/evmos.svg"
             },
             "urls": {
                 "website": "https://evmos.org/",
@@ -201,8 +201,8 @@
                 "source_chain": "Axelar"
             },
             "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/"
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/axelar/images/axelar.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/axelar/images/axelar.svg"
             },
             "urls": {
                 "website": "https://axelar.network/",
@@ -229,8 +229,8 @@
                 "source_chain": "Sei"
             },
             "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/"
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sei/images/sei.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sei/images/sei.svg"
             },
             "urls": {
                 "website": "https://www.sei.io/",
@@ -257,8 +257,8 @@
                 "source_chain": "Kava"
             },
             "logo_URIs": {
-                "png": "",
-                "svg": ""
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/kava.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/kava.svg"
             },
             "urls": {
                 "website": "https://www.kava.io/",
@@ -278,15 +278,15 @@
         },
         {
             "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
-            "description": "USDT from Kava",
+            "description": "USDt from Kava",
             "ibc_info": {
-                "display_name": "USDT",
+                "display_name": "USDt",
                 "precision": 6,
                 "source_chain": "Kava"
             },
             "logo_URIs": {
-                "png": "",
-                "svg": ""
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/usdt.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/usdt.svg"
             },
             "urls": {
                 "website": "https://www.kava.io/",
@@ -313,8 +313,8 @@
                 "source_chain": "Cosmos Hub"
             },
             "logo_URIs": {
-                "png": "",
-                "svg": ""
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cosmoshub/images/atom.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cosmsoshub/images/atom.svg"
             },
             "urls": {
                 "website": "https://cosmos.network/",
@@ -341,8 +341,8 @@
                 "source_chain": "dYdX"
             },
             "logo_URIs": {
-                "png": "",
-                "svg": ""
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/dydx/images/dydx.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/dydx/images/dydx.svg"
             },
             "urls": {
                 "website": "https://dydx.exchange/",
@@ -360,6 +360,5 @@
                 "tiktok": ""
             }
         }
-        
     ]
 }

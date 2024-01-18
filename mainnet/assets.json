@@ -117,7 +117,7 @@
                 "source_chain": "Kujira"
             },
             "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kujira/images//kuji.png",
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kujira/images/kuji.png",
                 "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kujira/images/kuji.svg"
             },
             "urls": {

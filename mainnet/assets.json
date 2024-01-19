@@ -145,8 +145,8 @@
                 "source_chain": "Band Protocol"
             },
             "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/banchain/images/band.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/banchain/images/band.svg"
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bandchain/images/band.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bandchain/images/band.svg"
             },
             "urls": {
                 "website": "https://www.bandprotocol.com/",
@@ -314,7 +314,7 @@
             },
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cosmoshub/images/atom.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cosmsoshub/images/atom.svg"
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cosmoshub/images/atom.svg"
             },
             "urls": {
                 "website": "https://cosmos.network/",

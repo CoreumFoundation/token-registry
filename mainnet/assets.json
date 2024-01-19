@@ -141,7 +141,7 @@
             "description": "BAND from Band Protocol",
             "ibc_info": {
                 "display_name": "BAND",
-                "precision": 6,
+                "precision": 18,
                 "source_chain": "Band Protocol"
             },
             "logo_URIs": {
@@ -169,7 +169,7 @@
             "description": "EVMOS from Evmos",
             "ibc_info": {
                 "display_name": "EVMOS",
-                "precision": 6,
+                "precision": 18,
                 "source_chain": "Evmos"
             },
             "logo_URIs": {
@@ -309,7 +309,7 @@
             "description": "ATOM from Cosmos Hub",
             "ibc_info": {
                 "display_name": "ATOM",
-                "precision": 6,
+                "precision": 18,
                 "source_chain": "Cosmos Hub"
             },
             "logo_URIs": {

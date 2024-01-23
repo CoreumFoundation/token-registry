@@ -141,7 +141,7 @@
             "description": "BAND from Band Protocol",
             "ibc_info": {
                 "display_name": "BAND",
-                "precision": 18,
+                "precision": 6,
                 "source_chain": "Band Protocol"
             },
             "logo_URIs": {

@@ -1,364 +1,383 @@
 {
-    "assets": [
-        {
-            "denom": "ucore",
-            "description": "",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
-            },
-            "urls": {
-                "website": "https://www.coreum.com/",
-                "github": "https://github.com/CoreumFoundation/coreum",
-                "whitepaper": "https://www.coreum.com/assets/coreum_technical_paper.pdf"
-            },
-            "social_media": {
-                "linkedin": "https://www.linkedin.com/company/coreumofficial",
-                "twitter": "https://twitter.com/CoreumOfficial",
-                "instagram": "https://www.instagram.com/coreum.official/",
-                "facebook": "https://www.facebook.com/coreum_official",
-                "discord": "https://discord.gg/XdVAGKXEhg",
-                "youtube": "https://www.youtube.com/channel/UCIFix5W3gRgA4mSiXE268IA",
-                "telegram": "https://t.me/CoreumOfficial",
-                "tiktok": "https://www.tiktok.com/@sologenic.official"
-            }
-        },
-        {
-            "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
-            "description": "USDC from Noble",
-            "ibc_info": {
-                "display_name": "USDC",
-                "precision": 6,
-                "source_chain": "Noble"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/noble/images/USDCoin.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/noble/images/USDCoin.svg"
-            },
-            "urls": {
-                "website": "https://nobleassets.xyz",
-                "github": "https://github.com/noble-assets/noble",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/noble_xyz",
-                "instagram": "",
-                "facebook": "",
-                "discord": "",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            }
-        },
-        {
-            "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
-            "description": "OSMO from Osmosis",
-            "ibc_info": {
-                "display_name": "OSMO",
-                "precision": 6,
-                "source_chain": "Osmosis"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.svg"
-            },
-            "urls": {
-                "website": "https://osmosis.zone",
-                "github": "https://github.com/osmosis-labs/osmosis",
-                "whitepaper": "https://medium.com/osmosis/vision-for-osmosis-e68e796ff1c2"
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/osmosiszone",
-                "instagram": "",
-                "facebook": "",
-                "discord": "https://discord.com/invite/osmosis",
-                "youtube": "",
-                "telegram": "https://t.me/osmosis_chat",
-                "tiktok": ""
-            }
-        },
-        {
-            "denom": "ibc/64ADA1661E3C1A4293E3BB15D5BD13012D0DB3D9002C117C30D7C429A32F4D51",
-            "description": "GRAV from Gravity Bridge",
-            "ibc_info": {
-                "display_name": "GRAV",
-                "precision": 6,
-                "source_chain": "Gravity Bridge"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/gravitybridge/images/grav.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/gravitybridge/images//grav.svg"
-            },
-            "urls": {
-                "website": "https://www.gravitybridge.net/",
-                "github": "https://github.com/Gravity-Bridge",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/gravity_bridge",
-                "instagram": "",
-                "facebook": "",
-                "discord": "https://discord.com/invite/d3DshmHpXA",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            }
-        },
-        {
-            "denom": "ibc/AB305490F17ECCAE3F2B0398A572E0EFB3AF394B90C3A1663DA28C1F0869F624",
-            "description": "KUJI from Kujira",
-            "ibc_info": {
-                "display_name": "KUJI",
-                "precision": 6,
-                "source_chain": "Kujira"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kujira/images/kuji.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kujira/images/kuji.svg"
-            },
-            "urls": {
-                "website": "https://kujira.network/",
-                "github": "https://github.com/Team-Kujira",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/TeamKujira",
-                "instagram": "https://www.instagram.com/teamkujira/",
-                "facebook": "",
-                "discord": "https://discord.com/invite/teamkujira",
-                "youtube": "https://www.youtube.com/@TeamKujiraDeFi",
-                "telegram": "https://t.me/team_kujira",
-                "tiktok": ""
-            }
-        },
-        {
-            "denom": "ibc/6D42727C323C8AF2821966C83E0708F0C17FB0B0DE38BA5E4D23F2EE7C0E9DDC",
-            "description": "BAND from Band Protocol",
-            "ibc_info": {
-                "display_name": "BAND",
-                "precision": 6,
-                "source_chain": "Band Protocol"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bandchain/images/band.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bandchain/images/band.svg"
-            },
-            "urls": {
-                "website": "https://www.bandprotocol.com/",
-                "github": "https://github.com/bandprotocol/chain",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/BandProtocol",
-                "instagram": "https://t.me/bandprotocol",
-                "facebook": "",
-                "discord": "https://discord.com/invite/3t4bsY7",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            }
-        },
-        {
-            "denom": "ibc/078EAF11288A47609FD894070CA8A1BFCEBD9E08745EA7030F95D7ADEE2E22CA",
-            "description": "EVMOS from Evmos",
-            "ibc_info": {
-                "display_name": "EVMOS",
-                "precision": 18,
-                "source_chain": "Evmos"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/evmos/images/evmos.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/evmos/images/evmos.svg"
-            },
-            "urls": {
-                "website": "https://evmos.org/",
-                "github": "https://github.com/evmos/evmos",
-                "whitepaper": "https://medium.com/evmos/the-evmos-manifesto-7fe5d1ab0d67"
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/EvmosOrg",
-                "instagram": "",
-                "facebook": "",
-                "discord": "https://discord.com/invite/evmos",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            }
-        },
-        {
-            "denom": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
-            "description": "AXL from Axelar",
-            "ibc_info": {
-                "display_name": "AXL",
-                "precision": 6,
-                "source_chain": "Axelar"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/axelar/images/axelar.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/axelar/images/axelar.svg"
-            },
-            "urls": {
-                "website": "https://axelar.network/",
-                "github": "https://github.com/axelarnetwork",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "https://www.linkedin.com/company/axelarnetwork/",
-                "twitter": "https://twitter.com/axelarnetwork",
-                "instagram": "",
-                "facebook": "",
-                "discord": "https://discord.com/invite/aRZ3Ra6f7D",
-                "youtube": "",
-                "telegram": "https://t.me/axelarcommunity",
-                "tiktok": ""
-            }
-        },
-        {
-            "denom": "ibc/81BD95B0890B8D0130755E8338CF4AA48C7CBBD149C1D66EC9F9B62AFAE5C4F3",
-            "description": "SEI from Sei Network",
-            "ibc_info": {
-                "display_name": "SEI",
-                "precision": 6,
-                "source_chain": "Sei"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sei/images/sei.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sei/images/sei.svg"
-            },
-            "urls": {
-                "website": "https://www.sei.io/",
-                "github": "https://github.com/sei-protocol/sei-chain",
-                "whitepaper": "https://github.com/sei-protocol/sei-chain/blob/3c9576fee3494ce039df684624f918dd8066ba3f/whitepaper/Sei_Whitepaper.pdf"
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/SeiNetwork",
-                "instagram": "",
-                "facebook": "",
-                "discord": "https://discord.com/invite/sei",
-                "youtube": "",
-                "telegram": "https://t.me/seinetwork",
-                "tiktok": ""
-            }
-        },
-        {
-            "denom": "ibc/12B178A885FC6891E0E09E1FB013973C5632B7093CE52D8F33B32E76E3BB6EA1",
-            "description": "KAVA from Kava",
-            "ibc_info": {
-                "display_name": "KAVA",
-                "precision": 6,
-                "source_chain": "Kava"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/kava.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/kava.svg"
-            },
-            "urls": {
-                "website": "https://www.kava.io/",
-                "github": "https://github.com/kava-labs",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/KAVA_CHAIN",
-                "instagram": "",
-                "facebook": "",
-                "discord": "https://discord.com/invite/q6QuanE4bx",
-                "youtube": "",
-                "telegram": "https://t.me/kavalabs",
-                "tiktok": ""
-            }
-        },
-        {
-            "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
-            "description": "USDt from Kava",
-            "ibc_info": {
-                "display_name": "USDt",
-                "precision": 6,
-                "source_chain": "Kava"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/usdt.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/usdt.svg"
-            },
-            "urls": {
-                "website": "https://www.kava.io/",
-                "github": "https://github.com/kava-labs",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/KAVA_CHAIN",
-                "instagram": "",
-                "facebook": "",
-                "discord": "https://discord.com/invite/q6QuanE4bx",
-                "youtube": "",
-                "telegram": "https://t.me/kavalabs",
-                "tiktok": ""
-            }
-        },
-        {
-            "denom": "ibc/45C001A5AE212D09879BE4627C45B64D5636086285590D5145A51E18E9D16722",
-            "description": "ATOM from Cosmos Hub",
-            "ibc_info": {
-                "display_name": "ATOM",
-                "precision": 6,
-                "source_chain": "Cosmos Hub"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cosmoshub/images/atom.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cosmoshub/images/atom.svg"
-            },
-            "urls": {
-                "website": "https://cosmos.network/",
-                "github": "https://github.com/cosmos/gaia",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/cosmos",
-                "instagram": "",
-                "facebook": "",
-                "discord": "https://discord.com/invite/cosmosnetwork",
-                "youtube": "https://www.youtube.com/c/CosmosProject",
-                "telegram": "https://t.me/cosmosproject",
-                "tiktok": ""
-            }
-        },
-        {
-            "denom": "ibc/F8CA5236869F819BC006EEF088E67889A26E4140339757878F0F4E229CDDA858",
-            "description": "DYDX from dYdX",
-            "ibc_info": {
-                "display_name": "DYDX",
-                "precision": 18,
-                "source_chain": "dYdX"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/dydx/images/dydx.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/dydx/images/dydx.svg"
-            },
-            "urls": {
-                "website": "https://dydx.exchange/",
-                "github": "https://github.com/dydxprotocol/",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "https://www.linkedin.com/company/dydx/",
-                "twitter": "https://twitter.com/dYdX",
-                "instagram": "",
-                "facebook": "",
-                "discord": "https://discord.com/invite/dydx",
-                "youtube": "https://www.youtube.com/c/dYdXprotocol",
-                "telegram": "",
-                "tiktok": ""
-            }
-        }
-    ]
+  "assets": [
+    {
+      "denom": "ucore",
+      "description": "",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+      },
+      "urls": {
+        "website": "https://www.coreum.com/",
+        "github": "https://github.com/CoreumFoundation/coreum",
+        "whitepaper": "https://www.coreum.com/assets/coreum_technical_paper.pdf"
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/coreumofficial",
+        "twitter": "https://twitter.com/CoreumOfficial",
+        "instagram": "https://www.instagram.com/coreum.official/",
+        "facebook": "https://www.facebook.com/coreum_official",
+        "discord": "https://discord.gg/XdVAGKXEhg",
+        "youtube": "https://www.youtube.com/channel/UCIFix5W3gRgA4mSiXE268IA",
+        "telegram": "https://t.me/CoreumOfficial",
+        "tiktok": "https://www.tiktok.com/@sologenic.official"
+      }
+    },
+    {
+      "denom": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
+      "description": "SARA is the utility native token of the Pulsara ecosystem. The burn or mint of the $SARA token will be decided by the community through proposals and voting.",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/pulsara/images/sara.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/pulsara/images/sara.svg"
+      },
+      "urls": {
+        "website": "https://www.pulsara.io",
+        "github": "https://github.com/PulsaraIO",
+        "whitepaper": "https://www.pulsara.io/assets/documents/pulsara-whitepaper.pdf"
+      },
+      "social_media": {
+        "twitter": "https://twitter.com/pulsara_io",
+        "instagram": "https://www.instagram.com/pulsara_io",
+        "telegram": "https://t.me/pulsara_io"
+      }
+    },
+    {
+      "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
+      "description": "USDC from Noble",
+      "ibc_info": {
+        "display_name": "USDC",
+        "precision": 6,
+        "source_chain": "Noble"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/noble/images/USDCoin.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/noble/images/USDCoin.svg"
+      },
+      "urls": {
+        "website": "https://nobleassets.xyz",
+        "github": "https://github.com/noble-assets/noble",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://twitter.com/noble_xyz",
+        "instagram": "",
+        "facebook": "",
+        "discord": "",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      }
+    },
+    {
+      "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
+      "description": "OSMO from Osmosis",
+      "ibc_info": {
+        "display_name": "OSMO",
+        "precision": 6,
+        "source_chain": "Osmosis"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.svg"
+      },
+      "urls": {
+        "website": "https://osmosis.zone",
+        "github": "https://github.com/osmosis-labs/osmosis",
+        "whitepaper": "https://medium.com/osmosis/vision-for-osmosis-e68e796ff1c2"
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://twitter.com/osmosiszone",
+        "instagram": "",
+        "facebook": "",
+        "discord": "https://discord.com/invite/osmosis",
+        "youtube": "",
+        "telegram": "https://t.me/osmosis_chat",
+        "tiktok": ""
+      }
+    },
+    {
+      "denom": "ibc/64ADA1661E3C1A4293E3BB15D5BD13012D0DB3D9002C117C30D7C429A32F4D51",
+      "description": "GRAV from Gravity Bridge",
+      "ibc_info": {
+        "display_name": "GRAV",
+        "precision": 6,
+        "source_chain": "Gravity Bridge"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/gravitybridge/images/grav.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/gravitybridge/images//grav.svg"
+      },
+      "urls": {
+        "website": "https://www.gravitybridge.net/",
+        "github": "https://github.com/Gravity-Bridge",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://twitter.com/gravity_bridge",
+        "instagram": "",
+        "facebook": "",
+        "discord": "https://discord.com/invite/d3DshmHpXA",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      }
+    },
+    {
+      "denom": "ibc/AB305490F17ECCAE3F2B0398A572E0EFB3AF394B90C3A1663DA28C1F0869F624",
+      "description": "KUJI from Kujira",
+      "ibc_info": {
+        "display_name": "KUJI",
+        "precision": 6,
+        "source_chain": "Kujira"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kujira/images/kuji.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kujira/images/kuji.svg"
+      },
+      "urls": {
+        "website": "https://kujira.network/",
+        "github": "https://github.com/Team-Kujira",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://twitter.com/TeamKujira",
+        "instagram": "https://www.instagram.com/teamkujira/",
+        "facebook": "",
+        "discord": "https://discord.com/invite/teamkujira",
+        "youtube": "https://www.youtube.com/@TeamKujiraDeFi",
+        "telegram": "https://t.me/team_kujira",
+        "tiktok": ""
+      }
+    },
+    {
+      "denom": "ibc/6D42727C323C8AF2821966C83E0708F0C17FB0B0DE38BA5E4D23F2EE7C0E9DDC",
+      "description": "BAND from Band Protocol",
+      "ibc_info": {
+        "display_name": "BAND",
+        "precision": 6,
+        "source_chain": "Band Protocol"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bandchain/images/band.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bandchain/images/band.svg"
+      },
+      "urls": {
+        "website": "https://www.bandprotocol.com/",
+        "github": "https://github.com/bandprotocol/chain",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://twitter.com/BandProtocol",
+        "instagram": "https://t.me/bandprotocol",
+        "facebook": "",
+        "discord": "https://discord.com/invite/3t4bsY7",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      }
+    },
+    {
+      "denom": "ibc/078EAF11288A47609FD894070CA8A1BFCEBD9E08745EA7030F95D7ADEE2E22CA",
+      "description": "EVMOS from Evmos",
+      "ibc_info": {
+        "display_name": "EVMOS",
+        "precision": 18,
+        "source_chain": "Evmos"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/evmos/images/evmos.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/evmos/images/evmos.svg"
+      },
+      "urls": {
+        "website": "https://evmos.org/",
+        "github": "https://github.com/evmos/evmos",
+        "whitepaper": "https://medium.com/evmos/the-evmos-manifesto-7fe5d1ab0d67"
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://twitter.com/EvmosOrg",
+        "instagram": "",
+        "facebook": "",
+        "discord": "https://discord.com/invite/evmos",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      }
+    },
+    {
+      "denom": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
+      "description": "AXL from Axelar",
+      "ibc_info": {
+        "display_name": "AXL",
+        "precision": 6,
+        "source_chain": "Axelar"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/axelar/images/axelar.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/axelar/images/axelar.svg"
+      },
+      "urls": {
+        "website": "https://axelar.network/",
+        "github": "https://github.com/axelarnetwork",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/axelarnetwork/",
+        "twitter": "https://twitter.com/axelarnetwork",
+        "instagram": "",
+        "facebook": "",
+        "discord": "https://discord.com/invite/aRZ3Ra6f7D",
+        "youtube": "",
+        "telegram": "https://t.me/axelarcommunity",
+        "tiktok": ""
+      }
+    },
+    {
+      "denom": "ibc/81BD95B0890B8D0130755E8338CF4AA48C7CBBD149C1D66EC9F9B62AFAE5C4F3",
+      "description": "SEI from Sei Network",
+      "ibc_info": {
+        "display_name": "SEI",
+        "precision": 6,
+        "source_chain": "Sei"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sei/images/sei.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sei/images/sei.svg"
+      },
+      "urls": {
+        "website": "https://www.sei.io/",
+        "github": "https://github.com/sei-protocol/sei-chain",
+        "whitepaper": "https://github.com/sei-protocol/sei-chain/blob/3c9576fee3494ce039df684624f918dd8066ba3f/whitepaper/Sei_Whitepaper.pdf"
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://twitter.com/SeiNetwork",
+        "instagram": "",
+        "facebook": "",
+        "discord": "https://discord.com/invite/sei",
+        "youtube": "",
+        "telegram": "https://t.me/seinetwork",
+        "tiktok": ""
+      }
+    },
+    {
+      "denom": "ibc/12B178A885FC6891E0E09E1FB013973C5632B7093CE52D8F33B32E76E3BB6EA1",
+      "description": "KAVA from Kava",
+      "ibc_info": {
+        "display_name": "KAVA",
+        "precision": 6,
+        "source_chain": "Kava"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/kava.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/kava.svg"
+      },
+      "urls": {
+        "website": "https://www.kava.io/",
+        "github": "https://github.com/kava-labs",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://twitter.com/KAVA_CHAIN",
+        "instagram": "",
+        "facebook": "",
+        "discord": "https://discord.com/invite/q6QuanE4bx",
+        "youtube": "",
+        "telegram": "https://t.me/kavalabs",
+        "tiktok": ""
+      }
+    },
+    {
+      "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
+      "description": "USDt from Kava",
+      "ibc_info": {
+        "display_name": "USDt",
+        "precision": 6,
+        "source_chain": "Kava"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/usdt.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/usdt.svg"
+      },
+      "urls": {
+        "website": "https://www.kava.io/",
+        "github": "https://github.com/kava-labs",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://twitter.com/KAVA_CHAIN",
+        "instagram": "",
+        "facebook": "",
+        "discord": "https://discord.com/invite/q6QuanE4bx",
+        "youtube": "",
+        "telegram": "https://t.me/kavalabs",
+        "tiktok": ""
+      }
+    },
+    {
+      "denom": "ibc/45C001A5AE212D09879BE4627C45B64D5636086285590D5145A51E18E9D16722",
+      "description": "ATOM from Cosmos Hub",
+      "ibc_info": {
+        "display_name": "ATOM",
+        "precision": 6,
+        "source_chain": "Cosmos Hub"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cosmoshub/images/atom.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cosmoshub/images/atom.svg"
+      },
+      "urls": {
+        "website": "https://cosmos.network/",
+        "github": "https://github.com/cosmos/gaia",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://twitter.com/cosmos",
+        "instagram": "",
+        "facebook": "",
+        "discord": "https://discord.com/invite/cosmosnetwork",
+        "youtube": "https://www.youtube.com/c/CosmosProject",
+        "telegram": "https://t.me/cosmosproject",
+        "tiktok": ""
+      }
+    },
+    {
+      "denom": "ibc/F8CA5236869F819BC006EEF088E67889A26E4140339757878F0F4E229CDDA858",
+      "description": "DYDX from dYdX",
+      "ibc_info": {
+        "display_name": "DYDX",
+        "precision": 18,
+        "source_chain": "dYdX"
+      },
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/dydx/images/dydx.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/dydx/images/dydx.svg"
+      },
+      "urls": {
+        "website": "https://dydx.exchange/",
+        "github": "https://github.com/dydxprotocol/",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/dydx/",
+        "twitter": "https://twitter.com/dYdX",
+        "instagram": "",
+        "facebook": "",
+        "discord": "https://discord.com/invite/dydx",
+        "youtube": "https://www.youtube.com/c/dYdXprotocol",
+        "telegram": "",
+        "tiktok": ""
+      }
+    }
+  ]
 }

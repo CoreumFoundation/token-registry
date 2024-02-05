@@ -22,7 +22,8 @@
         "youtube": "https://www.youtube.com/channel/UCIFix5W3gRgA4mSiXE268IA",
         "telegram": "https://t.me/CoreumOfficial",
         "tiktok": "https://www.tiktok.com/@sologenic.official"
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
@@ -41,7 +42,8 @@
         "twitter": "https://twitter.com/pulsara_io",
         "instagram": "https://www.instagram.com/pulsara_io",
         "telegram": "https://t.me/pulsara_io"
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
@@ -69,7 +71,8 @@
         "youtube": "",
         "telegram": "",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
@@ -97,7 +100,8 @@
         "youtube": "",
         "telegram": "https://t.me/osmosis_chat",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/64ADA1661E3C1A4293E3BB15D5BD13012D0DB3D9002C117C30D7C429A32F4D51",
@@ -125,7 +129,8 @@
         "youtube": "",
         "telegram": "",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/AB305490F17ECCAE3F2B0398A572E0EFB3AF394B90C3A1663DA28C1F0869F624",
@@ -153,7 +158,8 @@
         "youtube": "https://www.youtube.com/@TeamKujiraDeFi",
         "telegram": "https://t.me/team_kujira",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/6D42727C323C8AF2821966C83E0708F0C17FB0B0DE38BA5E4D23F2EE7C0E9DDC",
@@ -181,7 +187,8 @@
         "youtube": "",
         "telegram": "",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/078EAF11288A47609FD894070CA8A1BFCEBD9E08745EA7030F95D7ADEE2E22CA",
@@ -209,7 +216,8 @@
         "youtube": "",
         "telegram": "",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
@@ -237,7 +245,8 @@
         "youtube": "",
         "telegram": "https://t.me/axelarcommunity",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/81BD95B0890B8D0130755E8338CF4AA48C7CBBD149C1D66EC9F9B62AFAE5C4F3",
@@ -265,7 +274,8 @@
         "youtube": "",
         "telegram": "https://t.me/seinetwork",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/12B178A885FC6891E0E09E1FB013973C5632B7093CE52D8F33B32E76E3BB6EA1",
@@ -293,7 +303,8 @@
         "youtube": "",
         "telegram": "https://t.me/kavalabs",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
@@ -321,7 +332,8 @@
         "youtube": "",
         "telegram": "https://t.me/kavalabs",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/45C001A5AE212D09879BE4627C45B64D5636086285590D5145A51E18E9D16722",
@@ -349,7 +361,8 @@
         "youtube": "https://www.youtube.com/c/CosmosProject",
         "telegram": "https://t.me/cosmosproject",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     },
     {
       "denom": "ibc/F8CA5236869F819BC006EEF088E67889A26E4140339757878F0F4E229CDDA858",
@@ -377,7 +390,8 @@
         "youtube": "https://www.youtube.com/c/dYdXprotocol",
         "telegram": "",
         "tiktok": ""
-      }
+      },
+      "xrpl_info": {}
     }
   ]
 }

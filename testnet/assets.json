@@ -23,7 +23,284 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
+        },
+        {
+            "denom": "xrpl3f36607911-testcore1kpplky98t0mn08z5vc3wa4056dxecczgdvup0wmvgvmwpghsvdrsvz4rfw",
+            "description": "",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "XRPL",
+                    "xrpl_issuer":"rDbhhiYb2SMuNUs1Q8udXzAVPUnyHbe3jw",
+                    "currency": "434F524500000000000000000000000000000000"
+                }
+            }
+        },
+        {
+            "denom": "xrpl12918fadca-testcore1kpplky98t0mn08z5vc3wa4056dxecczgdvup0wmvgvmwpghsvdrsvz4rfw",
+            "description": "",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "XRPL",
+                    "xrpl_issuer": "rDbhhiYb2SMuNUs1Q8udXzAVPUnyHbe3jw",
+                    "currency": "PMG"
+                }
+            }
+        },
+        {
+            "denom": "xrpl01da2fceb6-testcore1kpplky98t0mn08z5vc3wa4056dxecczgdvup0wmvgvmwpghsvdrsvz4rfw",
+            "description": "",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "XRPL",
+                    "xrpl_issuer": "rDbhhiYb2SMuNUs1Q8udXzAVPUnyHbe3jw",
+                    "currency": "xrp"
+                }
+            }
+        },
+        {
+            "denom": "xrpl3e225e7d04-testcore1kpplky98t0mn08z5vc3wa4056dxecczgdvup0wmvgvmwpghsvdrsvz4rfw",
+            "description": "",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "XRPL",
+                    "xrpl_issuer": "rEdFASKE6bh66L418ZpRfwWQvJVBXSiFhS",
+                    "currency": "FO1"
+                }
+            }
+        },
+        {
+            "denom": "xrpleb39fda456-testcore1kpplky98t0mn08z5vc3wa4056dxecczgdvup0wmvgvmwpghsvdrsvz4rfw",
+            "description": "",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "XRPL",
+                    "xrpl_issuer": "rEdFASKE6bh66L418ZpRfwWQvJVBXSiFhS",
+                    "currency": "FO3"
+                }
+            }
+        },
+        {
+            "denom": "xrplf226339697-testcore1kpplky98t0mn08z5vc3wa4056dxecczgdvup0wmvgvmwpghsvdrsvz4rfw",
+            "description": "",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "XRPL",
+                    "xrpl_issuer": "rEdFASKE6bh66L418ZpRfwWQvJVBXSiFhS",
+                    "currency": "FO4"
+                }
+            }
+        },
+        {
+            "denom": "ibc/404D5E758F6BF8FAA23395A66D357176696560A78BF057EFCE133D1B8C4FB1A3",
+            "description": "",
+            "ibc_info": {
+                "display_name": "Test",
+                "precision": 18,
+                "source_chain": "Test"
+            },
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "ibc_info": {
+                    "display_name": "Test",
+                    "precision": 18,
+                    "source_chain": "Test"
+                }
+            }
+        },
+        {
+            "denom": "jolyu-testcore1p73lur8mwd3nxadl4suq7w0y4ugdzmtqp8elld",
+            "description": "",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {}
+        },
+        {
+            "denom": "testdenom111-testcore1yx8amz2zfeaql6ed4v78mxxl0aa0pqdkkk3ukx",
+            "description": "",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {}
         }
     ]
 }

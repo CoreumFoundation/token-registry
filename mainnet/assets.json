@@ -23,7 +23,7 @@
         "telegram": "https://t.me/CoreumOfficial",
         "tiktok": "https://www.tiktok.com/@sologenic.official"
       },
-      "xrpl_info": {}
+      "extra": {}
     },
     {
       "denom": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
@@ -43,7 +43,7 @@
         "instagram": "https://www.instagram.com/pulsara_io",
         "telegram": "https://t.me/pulsara_io"
       },
-      "xrpl_info": {}
+      "extra": {}
     },
     {
       "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
@@ -72,7 +72,13 @@
         "telegram": "",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "USDC",
+          "precision": 6,
+          "source_chain": "Noble"
+        }
+      }
     },
     {
       "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
@@ -101,7 +107,13 @@
         "telegram": "https://t.me/osmosis_chat",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "OSMO",
+          "precision": 6,
+          "source_chain": "Osmosis"
+        }
+      }
     },
     {
       "denom": "ibc/64ADA1661E3C1A4293E3BB15D5BD13012D0DB3D9002C117C30D7C429A32F4D51",
@@ -130,7 +142,13 @@
         "telegram": "",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "GRAV",
+          "precision": 6,
+          "source_chain": "Gravity Bridge"
+        }
+      }
     },
     {
       "denom": "ibc/AB305490F17ECCAE3F2B0398A572E0EFB3AF394B90C3A1663DA28C1F0869F624",
@@ -159,7 +177,13 @@
         "telegram": "https://t.me/team_kujira",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "KUJI",
+          "precision": 6,
+          "source_chain": "Kujira"
+        }
+      }
     },
     {
       "denom": "ibc/6D42727C323C8AF2821966C83E0708F0C17FB0B0DE38BA5E4D23F2EE7C0E9DDC",
@@ -188,7 +212,13 @@
         "telegram": "",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "BAND",
+          "precision": 6,
+          "source_chain": "Band Protocol"
+        }
+      }
     },
     {
       "denom": "ibc/078EAF11288A47609FD894070CA8A1BFCEBD9E08745EA7030F95D7ADEE2E22CA",
@@ -217,7 +247,13 @@
         "telegram": "",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "EVMOS",
+          "precision": 18,
+          "source_chain": "Evmos"
+        }
+      }
     },
     {
       "denom": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
@@ -246,7 +282,13 @@
         "telegram": "https://t.me/axelarcommunity",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "AXL",
+          "precision": 6,
+          "source_chain": "Axelar"
+        }
+      }
     },
     {
       "denom": "ibc/81BD95B0890B8D0130755E8338CF4AA48C7CBBD149C1D66EC9F9B62AFAE5C4F3",
@@ -275,7 +317,13 @@
         "telegram": "https://t.me/seinetwork",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "SEI",
+          "precision": 6,
+          "source_chain": "Sei"
+        }
+      }
     },
     {
       "denom": "ibc/12B178A885FC6891E0E09E1FB013973C5632B7093CE52D8F33B32E76E3BB6EA1",
@@ -304,7 +352,13 @@
         "telegram": "https://t.me/kavalabs",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "KAVA",
+          "precision": 6,
+          "source_chain": "Kava"
+        }
+      }
     },
     {
       "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
@@ -333,7 +387,13 @@
         "telegram": "https://t.me/kavalabs",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "USDt",
+          "precision": 6,
+          "source_chain": "Kava"
+        }
+      }
     },
     {
       "denom": "ibc/45C001A5AE212D09879BE4627C45B64D5636086285590D5145A51E18E9D16722",
@@ -362,7 +422,13 @@
         "telegram": "https://t.me/cosmosproject",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "ATOM",
+          "precision": 6,
+          "source_chain": "Cosmos Hub"
+        }
+      }
     },
     {
       "denom": "ibc/F8CA5236869F819BC006EEF088E67889A26E4140339757878F0F4E229CDDA858",
@@ -391,7 +457,13 @@
         "telegram": "",
         "tiktok": ""
       },
-      "xrpl_info": {}
+      "extra": {
+        "ibc_info": {
+          "display_name": "DYDX",
+          "precision": 18,
+          "source_chain": "dYdX"
+        }
+      }
     }
   ]
 }

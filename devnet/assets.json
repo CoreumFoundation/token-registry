@@ -23,7 +23,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "hmmtkhmfnvyzoodtwzkh-devcore1nqzfspvg6mslxc5ef6kc9xgfw9l754lhjruw0a",
@@ -48,7 +48,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
@@ -68,7 +68,13 @@
                 "whitepaper": "https://www.coreum.com/assets/coreum_technical_paper.pdf"
             },
             "social_media": {},
-            "xrpl_info": {}
+            "extra": {
+                "ibc_info": {
+                    "display_name": "😄😆😆😅😂😂 Lorem Ipsum is simply dummy 😄😆😆😅😂😂 text of the 😄😆😆😅😂😂 printing and typesetting industry.😄😆😆😅😂😂 ",
+                    "precision": 6,
+                    "source_chain": "Osmosis"
+                }
+            }
         },
         {
             "denom": "sst-devcore16c5u92wswhhsnqgjz7kj3edprkhavm730gn6cqdg2hmm5rpm4c7qwpehad",
@@ -93,7 +99,7 @@
                 "tiktok": "https://www.tiktok.com/@sologenic.official",
                 "reddit": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore1237fcf44zxpv4v758cn29qe9eadq3q755ykzxv",
@@ -118,7 +124,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore12fjw8zgd567j3pmn8lzfp06dj2zrqzrqpgqqzc",
@@ -143,7 +149,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore139cszvl759pmqe9esxyy8d762s8gt886sxvf36",
@@ -168,7 +174,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore13snh32mvznj2ql8gknk5e4thcmyz6lm2r57lm6",
@@ -193,7 +199,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore147gs7tdpz92vcuap64auwfjm785s4shngk73qt",
@@ -218,7 +224,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore14m7vs8s5kadwnz68t597y3zhx2m4zgr9q4szfu",
@@ -243,7 +249,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore14tqu0jjj865cufdzn9pz6k3re0m3cgm4pxzprq",
@@ -268,7 +274,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore15744fzn40gq5aqgc25cwh075w2928rr34ezdjm",
@@ -293,7 +299,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore15hvxar6zfp0urznkh77z48vjhj6sqtuqe0ga0g",
@@ -318,7 +324,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore15lszg25r90hs95xd4rpumjcez9z6wxx34kg9ch",
@@ -343,7 +349,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore16ah4ejmdyhr0pj3as2wdwdnp6gelp8tv2rxeeg",
@@ -368,7 +374,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore16w2ccrpzjgzskf4wd20ssge70cj6ufe090djd0",
@@ -393,7 +399,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore17g04r5tfp5a0xfhqatnufdrk9r895x34hqncm5",
@@ -418,7 +424,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore17ld06fz7jf8he6hy5m206r5h808xxxu7t73scp",
@@ -443,7 +449,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore17p08p392jzcl4hp94pxpl9a9zg8hulgpchduam",
@@ -468,7 +474,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore18hkasqj8m9s5uk7d0dxkgmytqax2qkqg999d8u",
@@ -493,7 +499,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore19ejxyeh4r4ef8rr72d6h2mqd3xqdh0xhjzqty5",
@@ -518,7 +524,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore19rz0eruyqsq2gknsfrtzv6qhzu5hukh9j2ccer",
@@ -543,7 +549,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore1a8fgfp7gc7yqapseva8jxvkzwreymdwcxwrqrk",
@@ -568,7 +574,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore1anaj2nxnykst4zj39fac0t6k9cn29m6fsfyl08",
@@ -593,7 +599,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore1cc460sp6ahc9fne4u7c86sa4ewvfaylzagu4z9",
@@ -618,7 +624,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore1ce8pxhr9gr3hhqw4tchrqultcfp2utcl72ar9r",
@@ -643,7 +649,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore1ctv9gnahavnsvls5zy89dm32c3a5xgpgtz8uxq",
@@ -668,7 +674,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore1cuaytqw5d3rc60cvrc56s7qndgeekes5fr3ne5",
@@ -693,7 +699,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore1dcnw387kc5v5ag4hwcmve68e3g2vdvvp9fsc5x",
@@ -718,7 +724,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore1dj6a066a4wwy5n6gtrh5quafvnxgquyg4m4q3f",
@@ -743,7 +749,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "abc-devcore1ez2wfewj54matpkupkyvezmkt2fx055axcsr07",
@@ -768,7 +774,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         },
         {
             "denom": "cmyfthmmtkhmfnvyzoodtwzkh-devcore1nwwz96h9h8dyrf5g8efk05al0keevy9vfpe3eg",
@@ -793,7 +799,7 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "xrpl_info": {}
+            "extra": {}
         }
     ]
 }

@@ -114,7 +114,7 @@
             },
             "extra": {
                 "xrpl_info": {
-                    "precision": 15,
+                    "precision": 6,
                     "source_chain": "XRPL",
                     "xrpl_issuer": "rDbhhiYb2SMuNUs1Q8udXzAVPUnyHbe3jw",
                     "currency": "xrp"

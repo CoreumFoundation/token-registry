@@ -52,7 +52,7 @@
                 "xrpl_info": {
                     "precision": 6,
                     "source_chain": "XRPL",
-                    "xrpl_issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
+                    "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
                     "currency": "xrp"
                 }
             }
@@ -84,7 +84,7 @@
                 "xrpl_info": {
                     "precision": 15,
                     "source_chain": "XRPL",
-                    "xrpl_issuer": "rHZwvHEs56GCmHupwjA4RY7oPA3EoAJWuN",
+                    "issuer": "rHZwvHEs56GCmHupwjA4RY7oPA3EoAJWuN",
                     "currency": "534F4C4F00000000000000000000000000000000"
                 }
             }

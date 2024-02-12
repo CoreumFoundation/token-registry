@@ -22,7 +22,8 @@
         "youtube": "https://www.youtube.com/channel/UCIFix5W3gRgA4mSiXE268IA",
         "telegram": "https://t.me/CoreumOfficial",
         "tiktok": "https://www.tiktok.com/@sologenic.official"
-      }
+      },
+      "extra": {}
     },
     {
       "denom": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
@@ -41,7 +42,8 @@
         "twitter": "https://twitter.com/pulsara_io",
         "instagram": "https://www.instagram.com/pulsara_io",
         "telegram": "https://t.me/pulsara_io"
-      }
+      },
+      "extra": {}
     },
     {
       "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
@@ -69,6 +71,13 @@
         "youtube": "",
         "telegram": "",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "USDC",
+          "precision": 6,
+          "source_chain": "Noble"
+        }
       }
     },
     {
@@ -97,6 +106,13 @@
         "youtube": "",
         "telegram": "https://t.me/osmosis_chat",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "OSMO",
+          "precision": 6,
+          "source_chain": "Osmosis"
+        }
       }
     },
     {
@@ -125,6 +141,13 @@
         "youtube": "",
         "telegram": "",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "GRAV",
+          "precision": 6,
+          "source_chain": "Gravity Bridge"
+        }
       }
     },
     {
@@ -153,6 +176,13 @@
         "youtube": "https://www.youtube.com/@TeamKujiraDeFi",
         "telegram": "https://t.me/team_kujira",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "KUJI",
+          "precision": 6,
+          "source_chain": "Kujira"
+        }
       }
     },
     {
@@ -181,6 +211,13 @@
         "youtube": "",
         "telegram": "",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "BAND",
+          "precision": 6,
+          "source_chain": "Band Protocol"
+        }
       }
     },
     {
@@ -209,6 +246,13 @@
         "youtube": "",
         "telegram": "",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "EVMOS",
+          "precision": 18,
+          "source_chain": "Evmos"
+        }
       }
     },
     {
@@ -237,6 +281,13 @@
         "youtube": "",
         "telegram": "https://t.me/axelarcommunity",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "AXL",
+          "precision": 6,
+          "source_chain": "Axelar"
+        }
       }
     },
     {
@@ -265,6 +316,13 @@
         "youtube": "",
         "telegram": "https://t.me/seinetwork",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "SEI",
+          "precision": 6,
+          "source_chain": "Sei"
+        }
       }
     },
     {
@@ -293,6 +351,13 @@
         "youtube": "",
         "telegram": "https://t.me/kavalabs",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "KAVA",
+          "precision": 6,
+          "source_chain": "Kava"
+        }
       }
     },
     {
@@ -321,6 +386,13 @@
         "youtube": "",
         "telegram": "https://t.me/kavalabs",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "USDt",
+          "precision": 6,
+          "source_chain": "Kava"
+        }
       }
     },
     {
@@ -349,6 +421,13 @@
         "youtube": "https://www.youtube.com/c/CosmosProject",
         "telegram": "https://t.me/cosmosproject",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "ATOM",
+          "precision": 6,
+          "source_chain": "Cosmos Hub"
+        }
       }
     },
     {
@@ -377,6 +456,13 @@
         "youtube": "https://www.youtube.com/c/dYdXprotocol",
         "telegram": "",
         "tiktok": ""
+      },
+      "extra": {
+        "ibc_info": {
+          "display_name": "DYDX",
+          "precision": 18,
+          "source_chain": "dYdX"
+        }
       }
     }
   ]

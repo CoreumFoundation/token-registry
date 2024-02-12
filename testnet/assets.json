@@ -22,6 +22,106 @@
                 "youtube": "https://www.youtube.com/channel/UCIFix5W3gRgA4mSiXE268IA",
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
+            },
+            "extra": {}
+        },
+        {
+            "denom": "drop-testcore1p3t98zuz9whwxycp6xtaq0rwzr9u9zlrznl73qv6dgfm7vuafdhs52kd23",
+            "description": "",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.svg"
+            },
+            "urls": {
+                "website": "https://ripple.com/",
+                "github": "https://github.com/ripple",
+                "whitepaper": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
+            },
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/company/rippleofficial",
+                "twitter": "https://twitter.com/Ripple",
+                "instagram": "",
+                "facebook": "https://www.facebook.com/rippleofficial/",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "xrpl_info": {
+                    "precision": 6,
+                    "source_chain": "XRPL",
+                    "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
+                    "currency": "xrp"
+                }
+            }
+        },
+        {
+            "denom": "xrpl1f7acbdd3a-testcore1p3t98zuz9whwxycp6xtaq0rwzr9u9zlrznl73qv6dgfm7vuafdhs52kd23",
+            "description": "",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.svg"
+            },
+            "urls": {
+                "website": "https://www.sologenic.com/",
+                "github": "https://github.com/sologenic",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/company/realsologenic/people/so",
+                "twitter": "https://twitter.com/realSologenicsol",
+                "instagram": "https://www.instagram.com/realsologenic/",
+                "facebook": "https://www.facebook.com/realsologenic/",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "XRPL",
+                    "issuer": "rHZwvHEs56GCmHupwjA4RY7oPA3EoAJWuN",
+                    "currency": "534F4C4F00000000000000000000000000000000"
+                }
+            }
+        },
+        {
+            "denom": "ibc/404D5E758F6BF8FAA23395A66D357176696560A78BF057EFCE133D1B8C4FB1A3",
+            "description": "OSMO from Osmosis",
+            "ibc_info": {
+                "display_name": "OSMO",
+                "precision": 6,
+                "source_chain": "Osmosis"
+            },
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmisis/images/osmo.svg"
+            },
+            "urls": {
+                "website": "https://osmosis.zone",
+                "github": "https://github.com/osmosis-labs/osmosis",
+                "whitepaper": "https://medium.com/osmosis/vision-for-osmosis-e68e796ff1c2"
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "https://twitter.com/osmosiszone",
+                "instagram": "",
+                "facebook": "",
+                "discord": "https://discord.com/invite/osmosis",
+                "youtube": "",
+                "telegram": "https://t.me/osmosis_chat",
+                "tiktok": ""
+            },
+            "extra": {
+                "ibc_info": {
+                    "display_name": "OSMO",
+                    "precision": 6,
+                    "source_chain": "Osmosis"
+                }
             }
         }
     ]

@@ -99,7 +99,7 @@
             },
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmisis/images/osmo.svg"
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.svg"
             },
             "urls": {
                 "website": "https://osmosis.zone",

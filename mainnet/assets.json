@@ -47,7 +47,7 @@
     },
     {
       "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
-      "description": "USDC from Noble",
+      "description": "USD Coin from Noble",
       "ibc_info": {
         "display_name": "USDC",
         "precision": 6,
@@ -76,13 +76,14 @@
         "ibc_info": {
           "display_name": "USDC",
           "precision": 6,
-          "source_chain": "Noble"
+          "source_chain": "Noble",
+          "denom": "uusdc"
         }
       }
     },
     {
       "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
-      "description": "OSMO from Osmosis",
+      "description": "The native token of Osmosis",
       "ibc_info": {
         "display_name": "OSMO",
         "precision": 6,
@@ -111,13 +112,14 @@
         "ibc_info": {
           "display_name": "OSMO",
           "precision": 6,
-          "source_chain": "Osmosis"
+          "source_chain": "Osmosis",
+          "denom": "uosmo"
         }
       }
     },
     {
       "denom": "ibc/64ADA1661E3C1A4293E3BB15D5BD13012D0DB3D9002C117C30D7C429A32F4D51",
-      "description": "GRAV from Gravity Bridge",
+      "description": "The native token of Gravity Bridge",
       "ibc_info": {
         "display_name": "GRAV",
         "precision": 6,
@@ -146,13 +148,14 @@
         "ibc_info": {
           "display_name": "GRAV",
           "precision": 6,
-          "source_chain": "Gravity Bridge"
+          "source_chain": "Gravity Bridge",
+          "denom": "ugraviton"
         }
       }
     },
     {
       "denom": "ibc/AB305490F17ECCAE3F2B0398A572E0EFB3AF394B90C3A1663DA28C1F0869F624",
-      "description": "KUJI from Kujira",
+      "description": "The native staking and governance token of the Kujira chain.",
       "ibc_info": {
         "display_name": "KUJI",
         "precision": 6,
@@ -181,13 +184,14 @@
         "ibc_info": {
           "display_name": "KUJI",
           "precision": 6,
-          "source_chain": "Kujira"
+          "source_chain": "Kujira",
+          "denom": "ukuji"
         }
       }
     },
     {
       "denom": "ibc/6D42727C323C8AF2821966C83E0708F0C17FB0B0DE38BA5E4D23F2EE7C0E9DDC",
-      "description": "BAND from Band Protocol",
+      "description": "The native token of BandChain",
       "ibc_info": {
         "display_name": "BAND",
         "precision": 6,
@@ -216,13 +220,14 @@
         "ibc_info": {
           "display_name": "BAND",
           "precision": 6,
-          "source_chain": "Band Protocol"
+          "source_chain": "BandChain",
+          "denom": "uband"
         }
       }
     },
     {
       "denom": "ibc/078EAF11288A47609FD894070CA8A1BFCEBD9E08745EA7030F95D7ADEE2E22CA",
-      "description": "EVMOS from Evmos",
+      "description": "The native EVM, governance and staking token of the Evmos Hub",
       "ibc_info": {
         "display_name": "EVMOS",
         "precision": 18,
@@ -251,13 +256,14 @@
         "ibc_info": {
           "display_name": "EVMOS",
           "precision": 18,
-          "source_chain": "Evmos"
+          "source_chain": "Evmos",
+          "denom": "aevmos"
         }
       }
     },
     {
       "denom": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
-      "description": "AXL from Axelar",
+      "description": "The native token of Axelar",
       "ibc_info": {
         "display_name": "AXL",
         "precision": 6,
@@ -286,13 +292,14 @@
         "ibc_info": {
           "display_name": "AXL",
           "precision": 6,
-          "source_chain": "Axelar"
+          "source_chain": "Axelar",
+          "denom": "uaxl"
         }
       }
     },
     {
       "denom": "ibc/81BD95B0890B8D0130755E8338CF4AA48C7CBBD149C1D66EC9F9B62AFAE5C4F3",
-      "description": "SEI from Sei Network",
+      "description": "The native staking token of Sei.",
       "ibc_info": {
         "display_name": "SEI",
         "precision": 6,
@@ -321,13 +328,14 @@
         "ibc_info": {
           "display_name": "SEI",
           "precision": 6,
-          "source_chain": "Sei"
+          "source_chain": "Sei",
+          "denom": "usei"
         }
       }
     },
     {
       "denom": "ibc/12B178A885FC6891E0E09E1FB013973C5632B7093CE52D8F33B32E76E3BB6EA1",
-      "description": "KAVA from Kava",
+      "description": "The native staking and governance token of Kava.",
       "ibc_info": {
         "display_name": "KAVA",
         "precision": 6,
@@ -356,15 +364,16 @@
         "ibc_info": {
           "display_name": "KAVA",
           "precision": 6,
-          "source_chain": "Kava"
+          "source_chain": "Kava",
+          "denom": "ukava"
         }
       }
     },
     {
       "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
-      "description": "USDt from Kava",
+      "description": "USDT from Kava",
       "ibc_info": {
-        "display_name": "USDt",
+        "display_name": "USDT",
         "precision": 6,
         "source_chain": "Kava"
       },
@@ -391,13 +400,14 @@
         "ibc_info": {
           "display_name": "USDt",
           "precision": 6,
-          "source_chain": "Kava"
+          "source_chain": "Kava",
+          "denom": "erc20/tether/usdt"
         }
       }
     },
     {
       "denom": "ibc/45C001A5AE212D09879BE4627C45B64D5636086285590D5145A51E18E9D16722",
-      "description": "ATOM from Cosmos Hub",
+      "description": "The native staking and governance token of the Cosmos Hub.",
       "ibc_info": {
         "display_name": "ATOM",
         "precision": 6,
@@ -426,13 +436,14 @@
         "ibc_info": {
           "display_name": "ATOM",
           "precision": 6,
-          "source_chain": "Cosmos Hub"
+          "source_chain": "Cosmos Hub",
+          "denom": "uatom"
         }
       }
     },
     {
       "denom": "ibc/F8CA5236869F819BC006EEF088E67889A26E4140339757878F0F4E229CDDA858",
-      "description": "DYDX from dYdX",
+      "description": "The native staking token of dYdX Protocol.",
       "ibc_info": {
         "display_name": "DYDX",
         "precision": 18,
@@ -461,7 +472,8 @@
         "ibc_info": {
           "display_name": "DYDX",
           "precision": 18,
-          "source_chain": "dYdX"
+          "source_chain": "dYdX",
+          "denom": "adydx"
         }
       }
     }

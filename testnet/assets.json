@@ -53,7 +53,7 @@
                     "precision": 6,
                     "source_chain": "XRPL",
                     "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
-                    "currency": "xrp"
+                    "currency": "XRP"
                 }
             }
         },
@@ -62,8 +62,8 @@
             "description": "SOLO from XRPL",
             "ibc_info": {},
             "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.svg"
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.svg"
             },
             "urls": {
                 "website": "",

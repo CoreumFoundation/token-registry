@@ -26,8 +26,8 @@
             "extra": {}
         },
         {
-            "denom": "drop-testcore1p3t98zuz9whwxycp6xtaq0rwzr9u9zlrznl73qv6dgfm7vuafdhs52kd23",
-            "description": "",
+            "denom": "drop-testcore1672us3f65wz6rlxse58ea4u3092gh7y34e0a9cwl4g6uvuerzvjsvarmea",
+            "description": "XRP from XRPL",
             "ibc_info": {},
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.png",
@@ -53,28 +53,28 @@
                     "precision": 6,
                     "source_chain": "XRPL",
                     "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
-                    "currency": "xrp"
+                    "currency": "XRP"
                 }
             }
         },
         {
-            "denom": "xrpl1f7acbdd3a-testcore1p3t98zuz9whwxycp6xtaq0rwzr9u9zlrznl73qv6dgfm7vuafdhs52kd23",
-            "description": "",
+            "denom": "xrpl272320ca43-testcore1672us3f65wz6rlxse58ea4u3092gh7y34e0a9cwl4g6uvuerzvjsvarmea",
+            "description": "SOLO from XRPL",
             "ibc_info": {},
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.png",
                 "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.svg"
             },
             "urls": {
-                "website": "https://www.sologenic.com/",
-                "github": "https://github.com/sologenic",
+                "website": "",
+                "github": "",
                 "whitepaper": ""
             },
             "social_media": {
-                "linkedin": "https://www.linkedin.com/company/realsologenic/people/so",
-                "twitter": "https://twitter.com/realSologenicsol",
-                "instagram": "https://www.instagram.com/realsologenic/",
-                "facebook": "https://www.facebook.com/realsologenic/",
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
                 "discord": "",
                 "youtube": "",
                 "telegram": "",
@@ -120,7 +120,8 @@
                 "ibc_info": {
                     "display_name": "OSMO",
                     "precision": 6,
-                    "source_chain": "Osmosis"
+                    "source_chain": "Osmosis",
+                    "denom": "uosmo"
                 }
             }
         }

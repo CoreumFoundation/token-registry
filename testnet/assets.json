@@ -120,7 +120,7 @@
                 "ibc_info": {
                     "display_name": "OSMO",
                     "precision": 6,
-                    "source_chain": "Osmosis",
+                    "source_chain": "Osmosistestnet",
                     "denom": "uosmo"
                 }
             }

@@ -90,7 +90,7 @@
             }
         },
         {
-            "denom": "ibc/404D5E758F6BF8FAA23395A66D357176696560A78BF057EFCE133D1B8C4FB1A3",
+            "denom": "ibc/8FDAA4D8E7131C78BEE92615764019C8E6C91F7918EFCF9B6F4230F3C134DD34",
             "description": "OSMO from Osmosis",
             "ibc_info": {
                 "display_name": "OSMO",

@@ -26,7 +26,7 @@
             "extra": {}
         },
         {
-            "denom": "drop-testcore1672us3f65wz6rlxse58ea4u3092gh7y34e0a9cwl4g6uvuerzvjsvarmea",
+            "denom": "drop-testcore1mmpa2caapm9w5wtdsrzqhe7ndxg0032kzz3g5ju28m0kd6fav9cqtltf9c",
             "description": "XRP from XRPL",
             "ibc_info": {},
             "logo_URIs": {
@@ -58,7 +58,7 @@
             }
         },
         {
-            "denom": "xrpl272320ca43-testcore1672us3f65wz6rlxse58ea4u3092gh7y34e0a9cwl4g6uvuerzvjsvarmea",
+            "denom": "xrpl3f82438328-testcore1mmpa2caapm9w5wtdsrzqhe7ndxg0032kzz3g5ju28m0kd6fav9cqtltf9c",
             "description": "SOLO from XRPL",
             "ibc_info": {},
             "logo_URIs": {

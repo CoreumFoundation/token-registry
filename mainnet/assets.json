@@ -46,6 +46,38 @@
       "extra": {}
     },
     {
+            "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+            "description": "XRP bridged from XRPL",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.svg"
+            },
+            "urls": {
+                "website": "https://ripple.com/",
+                "github": "https://github.com/ripple",
+                "whitepaper": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
+            },
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/company/rippleofficial",
+                "twitter": "https://twitter.com/Ripple",
+                "instagram": "",
+                "facebook": "https://www.facebook.com/rippleofficial/",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "xrpl_info": {
+                    "precision": 6,
+                    "source_chain": "XRPL",
+                    "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
+                    "currency": "XRP"
+                }
+            }
+        },
+    {
       "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
       "description": "USD Coin from Noble",
       "ibc_info": {

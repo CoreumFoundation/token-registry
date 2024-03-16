@@ -46,37 +46,197 @@
       "extra": {}
     },
     {
-            "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
-            "description": "XRP bridged from XRPL",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.svg"
-            },
-            "urls": {
-                "website": "https://ripple.com/",
-                "github": "https://github.com/ripple",
-                "whitepaper": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
-            },
-            "social_media": {
-                "linkedin": "https://www.linkedin.com/company/rippleofficial",
-                "twitter": "https://twitter.com/Ripple",
-                "instagram": "",
-                "facebook": "https://www.facebook.com/rippleofficial/",
-                "discord": "",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            },
-            "extra": {
-                "xrpl_info": {
-                    "precision": 6,
-                    "source_chain": "XRPL",
-                    "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
-                    "currency": "XRP"
-                }
-            }
-        },
+      "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "XRP bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.svg"
+      },
+      "urls": {
+        "website": "https://ripple.com/",
+        "github": "https://github.com/ripple",
+        "whitepaper": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/rippleofficial",
+        "twitter": "https://twitter.com/Ripple",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/rippleofficial/",
+        "discord": "",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 6,
+          "source_chain": "XRPL",
+          "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
+          "currency": "XRP"
+        }
+      }
+    },
+    {
+      "denom": "xrpl11278ecf9e-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "SOLO bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.svg"
+      },
+      "urls": {
+        "website": "",
+        "github": "",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "",
+        "instagram": "",
+        "facebook": "",
+        "discord": "",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz",
+          "currency": "534F4C4F00000000000000000000000000000000"
+        }
+      }
+    },
+    {
+      "denom": "xrpl62a8252400-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "ELS bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "",
+        "svg": ""
+      },
+      "urls": {
+        "website": "",
+        "github": "",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "",
+        "instagram": "",
+        "facebook": "",
+        "discord": "",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rHXuEaRYnnJHbDeuBH5w8yPh5uwNVh5zAg",
+          "currency": "ELS"
+        }
+      }
+    },
+    {
+      "denom": "xrpla81f3eb9f8-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "VGB bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "",
+        "svg": ""
+      },
+      "urls": {
+        "website": "",
+        "github": "",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "",
+        "instagram": "",
+        "facebook": "",
+        "discord": "",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rhcyBrowwApgNonehKBj8Po5z4gTyRknaU",
+          "currency": "VGB"
+        }
+      }
+    },
+    {
+      "denom": "xrpl691210a91a-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "Equilibrium Games bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "",
+        "svg": ""
+      },
+      "urls": {
+        "website": "",
+        "github": "",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "",
+        "instagram": "",
+        "facebook": "",
+        "discord": "",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rpakCr61Q92abPXJnVboKENmpKssWyHpwu",
+          "currency": "457175696C69627269756D000000000000000000"
+        }
+      }
+    },
+    {
+      "denom": "xrpl2661e5b556-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "OXP bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "",
+        "svg": ""
+      },
+      "urls": {
+        "website": "",
+        "github": "",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "",
+        "instagram": "",
+        "facebook": "",
+        "discord": "",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rrno7Nj4RkFJLzC4nRaZiLF5aHwcTVon3d",
+          "currency": "OXP"
+        }
+      }
+    },
     {
       "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
       "description": "USD Coin from Noble",

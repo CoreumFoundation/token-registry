@@ -54,17 +54,17 @@
         "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.svg"
       },
       "urls": {
-        "website": "https://ripple.com/",
-        "github": "https://github.com/ripple",
+        "website": "https://xrpl.org/",
+        "github": "https://github.com/XRPLF/",
         "whitepaper": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
       },
       "social_media": {
-        "linkedin": "https://www.linkedin.com/company/rippleofficial",
+        "linkedin": "https://www.linkedin.com/company/rippleofficial/",
         "twitter": "https://twitter.com/Ripple",
         "instagram": "",
         "facebook": "https://www.facebook.com/rippleofficial/",
-        "discord": "",
-        "youtube": "",
+        "discord": "http://bit.ly/3TPCWon",
+        "youtube": "https://www.youtube.com/@xrplf",
         "telegram": "",
         "tiktok": ""
       },
@@ -86,17 +86,17 @@
         "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.svg"
       },
       "urls": {
-        "website": "",
-        "github": "",
+        "website": "https://sologenic.org/",
+        "github": "https://github.com/sologenic",
         "whitepaper": ""
       },
       "social_media": {
-        "linkedin": "",
-        "twitter": "",
-        "instagram": "",
-        "facebook": "",
-        "discord": "",
-        "youtube": "",
+        "linkedin": "https://www.linkedin.com/company/realsologenic/",
+        "twitter": "https://twitter.com/realSologenic",
+        "instagram": "https://www.instagram.com/realsologenic/",
+        "facebook": "https://www.facebook.com/realsologenic",
+        "discord": "https://discord.com/invite/hwUhpnGtGC",
+        "youtube": "https://www.youtube.com/c/GoSOLOTV",
         "telegram": "",
         "tiktok": ""
       },
@@ -114,21 +114,21 @@
       "description": "ELS bridged from XRPL",
       "ibc_info": {},
       "logo_URIs": {
-        "png": "",
-        "svg": ""
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/els/images/els.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/els/images/els.svg"
       },
       "urls": {
-        "website": "",
+        "website": "https://aesthetes.art/",
         "github": "",
-        "whitepaper": ""
+        "whitepaper": "https://aesthetes.art/assets/documents/Aesthetes_whitepaper.pdf"
       },
       "social_media": {
-        "linkedin": "",
-        "twitter": "",
-        "instagram": "",
-        "facebook": "",
+        "linkedin": "https://www.linkedin.com/company/aesthetes/",
+        "twitter": "https://twitter.com/aesthetes_art",
+        "instagram": "https://www.instagram.com/aesthetes_fineart/",
+        "facebook": "https://www.facebook.com/aesthetes.fineart",
         "discord": "",
-        "youtube": "",
+        "youtube": "https://www.youtube.com/@Aesthetes",
         "telegram": "",
         "tiktok": ""
       },
@@ -146,22 +146,22 @@
       "description": "VGB bridged from XRPL",
       "ibc_info": {},
       "logo_URIs": {
-        "png": "",
-        "svg": ""
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/vgb/images/vgb.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/vgb/images/vgb.svg"
       },
       "urls": {
-        "website": "",
+        "website": "https://vagabonds.cloud/",
         "github": "",
-        "whitepaper": ""
+        "whitepaper": "https://docs.vagabonds.cloud/vagabond/white-paper"
       },
       "social_media": {
-        "linkedin": "",
-        "twitter": "",
+        "linkedin": "https://www.linkedin.com/company/vagabondapp",
+        "twitter": "https://twitter.com/Vagabondappio",
         "instagram": "",
         "facebook": "",
-        "discord": "",
+        "discord": "https://discord.com/invite/3ty3u3u5Gy",
         "youtube": "",
-        "telegram": "",
+        "telegram": "https://t.me/vagabondappio",
         "tiktok": ""
       },
       "extra": {
@@ -178,22 +178,22 @@
       "description": "Equilibrium Games bridged from XRPL",
       "ibc_info": {},
       "logo_URIs": {
-        "png": "",
-        "svg": ""
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/eql/images/eql.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/eql/images/eql.svg"
       },
       "urls": {
-        "website": "",
+        "website": "https://equilibrium-games.com/",
         "github": "",
-        "whitepaper": ""
+        "whitepaper": "https://equilibrium-games.com/docs/whitepaper.pdf"
       },
       "social_media": {
-        "linkedin": "",
-        "twitter": "",
+        "linkedin": "https://www.linkedin.com/company/equilibrium-games-ags/",
+        "twitter": "https://twitter.com/Equilibrium_G",
         "instagram": "",
-        "facebook": "",
-        "discord": "",
-        "youtube": "",
-        "telegram": "",
+        "facebook": "https://www.facebook.com/p/Equilibrium-Games-100076064580710/",
+        "discord": "https://discord.com/invite/hwfGJrKP9C",
+        "youtube": "https://www.youtube.com/@equilibrium_games",
+        "telegram": "https://t.me/EquilibriumGamesChat",
         "tiktok": ""
       },
       "extra": {
@@ -210,22 +210,22 @@
       "description": "OXP bridged from XRPL",
       "ibc_info": {},
       "logo_URIs": {
-        "png": "",
-        "svg": ""
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/oxp/images/oxp.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/oxp/images/oxp.svg"
       },
       "urls": {
-        "website": "",
-        "github": "",
+        "website": "https://onxrp.com/",
+        "github": "https://github.com/onxrp",
         "whitepaper": ""
       },
       "social_media": {
-        "linkedin": "",
-        "twitter": "",
-        "instagram": "",
+        "linkedin": "https://www.linkedin.com/company/onxrp/",
+        "twitter": "https://twitter.com/onXRPdotcom",
+        "instagram": "https://www.instagram.com/onxrpdotcom/",
         "facebook": "",
-        "discord": "",
-        "youtube": "",
-        "telegram": "",
+        "discord": "https://discord.com/invite/onxrp",
+        "youtube": "https://www.youtube.com/channel/UC9v9WC-CyenpoNE94nYM8KQ",
+        "telegram": "https://t.me/+xSV29JZ9DrVmYTY0",
         "tiktok": ""
       },
       "extra": {

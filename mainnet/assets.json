@@ -46,37 +46,197 @@
       "extra": {}
     },
     {
-            "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
-            "description": "XRP bridged from XRPL",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.svg"
-            },
-            "urls": {
-                "website": "https://ripple.com/",
-                "github": "https://github.com/ripple",
-                "whitepaper": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
-            },
-            "social_media": {
-                "linkedin": "https://www.linkedin.com/company/rippleofficial",
-                "twitter": "https://twitter.com/Ripple",
-                "instagram": "",
-                "facebook": "https://www.facebook.com/rippleofficial/",
-                "discord": "",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            },
-            "extra": {
-                "xrpl_info": {
-                    "precision": 6,
-                    "source_chain": "XRPL",
-                    "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
-                    "currency": "XRP"
-                }
-            }
-        },
+      "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "XRP bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.svg"
+      },
+      "urls": {
+        "website": "https://xrpl.org/",
+        "github": "https://github.com/XRPLF/",
+        "whitepaper": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/rippleofficial/",
+        "twitter": "https://twitter.com/Ripple",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/rippleofficial/",
+        "discord": "http://bit.ly/3TPCWon",
+        "youtube": "https://www.youtube.com/@xrplf",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 6,
+          "source_chain": "XRPL",
+          "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
+          "currency": "XRP"
+        }
+      }
+    },
+    {
+      "denom": "xrpl11278ecf9e-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "SOLO bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.svg"
+      },
+      "urls": {
+        "website": "https://sologenic.org/",
+        "github": "https://github.com/sologenic",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/realsologenic/",
+        "twitter": "https://twitter.com/realSologenic",
+        "instagram": "https://www.instagram.com/realsologenic/",
+        "facebook": "https://www.facebook.com/realsologenic",
+        "discord": "https://discord.com/invite/hwUhpnGtGC",
+        "youtube": "https://www.youtube.com/c/GoSOLOTV",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz",
+          "currency": "534F4C4F00000000000000000000000000000000"
+        }
+      }
+    },
+    {
+      "denom": "xrpl62a8252400-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "ELS bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/els/images/els.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/els/images/els.svg"
+      },
+      "urls": {
+        "website": "https://aesthetes.art/",
+        "github": "",
+        "whitepaper": "https://aesthetes.art/assets/documents/Aesthetes_whitepaper.pdf"
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/aesthetes/",
+        "twitter": "https://twitter.com/aesthetes_art",
+        "instagram": "https://www.instagram.com/aesthetes_fineart/",
+        "facebook": "https://www.facebook.com/aesthetes.fineart",
+        "discord": "",
+        "youtube": "https://www.youtube.com/@Aesthetes",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rHXuEaRYnnJHbDeuBH5w8yPh5uwNVh5zAg",
+          "currency": "ELS"
+        }
+      }
+    },
+    {
+      "denom": "xrpla81f3eb9f8-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "VGB bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/vgb/images/vgb.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/vgb/images/vgb.svg"
+      },
+      "urls": {
+        "website": "https://vagabonds.cloud/",
+        "github": "",
+        "whitepaper": "https://docs.vagabonds.cloud/vagabond/white-paper"
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/vagabondapp",
+        "twitter": "https://twitter.com/Vagabondappio",
+        "instagram": "",
+        "facebook": "",
+        "discord": "https://discord.com/invite/3ty3u3u5Gy",
+        "youtube": "",
+        "telegram": "https://t.me/vagabondappio",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rhcyBrowwApgNonehKBj8Po5z4gTyRknaU",
+          "currency": "VGB"
+        }
+      }
+    },
+    {
+      "denom": "xrpl691210a91a-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "Equilibrium Games bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/eql/images/eql.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/eql/images/eql.svg"
+      },
+      "urls": {
+        "website": "https://equilibrium-games.com/",
+        "github": "",
+        "whitepaper": "https://equilibrium-games.com/docs/whitepaper.pdf"
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/equilibrium-games-ags/",
+        "twitter": "https://twitter.com/Equilibrium_G",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/p/Equilibrium-Games-100076064580710/",
+        "discord": "https://discord.com/invite/hwfGJrKP9C",
+        "youtube": "https://www.youtube.com/@equilibrium_games",
+        "telegram": "https://t.me/EquilibriumGamesChat",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rpakCr61Q92abPXJnVboKENmpKssWyHpwu",
+          "currency": "457175696C69627269756D000000000000000000"
+        }
+      }
+    },
+    {
+      "denom": "xrpl2661e5b556-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "description": "OXP bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/oxp/images/oxp.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/oxp/images/oxp.svg"
+      },
+      "urls": {
+        "website": "https://onxrp.com/",
+        "github": "https://github.com/onxrp",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/onxrp/",
+        "twitter": "https://twitter.com/onXRPdotcom",
+        "instagram": "https://www.instagram.com/onxrpdotcom/",
+        "facebook": "",
+        "discord": "https://discord.com/invite/onxrp",
+        "youtube": "https://www.youtube.com/channel/UC9v9WC-CyenpoNE94nYM8KQ",
+        "telegram": "https://t.me/+xSV29JZ9DrVmYTY0",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rrno7Nj4RkFJLzC4nRaZiLF5aHwcTVon3d",
+          "currency": "OXP"
+        }
+      }
+    },
     {
       "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
       "description": "USD Coin from Noble",

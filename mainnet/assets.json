@@ -490,42 +490,6 @@
       }
     },
     {
-      "denom": "ibc/81BD95B0890B8D0130755E8338CF4AA48C7CBBD149C1D66EC9F9B62AFAE5C4F3",
-      "description": "The native staking token of Sei.",
-      "ibc_info": {
-        "display_name": "SEI",
-        "precision": 6,
-        "source_chain": "Sei"
-      },
-      "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sei/images/sei.png",
-        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sei/images/sei.svg"
-      },
-      "urls": {
-        "website": "https://www.sei.io/",
-        "github": "https://github.com/sei-protocol/sei-chain",
-        "whitepaper": "https://github.com/sei-protocol/sei-chain/blob/3c9576fee3494ce039df684624f918dd8066ba3f/whitepaper/Sei_Whitepaper.pdf"
-      },
-      "social_media": {
-        "linkedin": "",
-        "twitter": "https://twitter.com/SeiNetwork",
-        "instagram": "",
-        "facebook": "",
-        "discord": "https://discord.com/invite/sei",
-        "youtube": "",
-        "telegram": "https://t.me/seinetwork",
-        "tiktok": ""
-      },
-      "extra": {
-        "ibc_info": {
-          "display_name": "SEI",
-          "precision": 6,
-          "source_chain": "Sei",
-          "denom": "usei"
-        }
-      }
-    },
-    {
       "denom": "ibc/12B178A885FC6891E0E09E1FB013973C5632B7093CE52D8F33B32E76E3BB6EA1",
       "description": "The native staking and governance token of Kava.",
       "ibc_info": {

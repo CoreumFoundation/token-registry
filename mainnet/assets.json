@@ -592,7 +592,7 @@
         "ibc_info": {
           "display_name": "ATOM",
           "precision": 6,
-          "source_chain": "Cosmos Hub",
+          "source_chain": "cosmoshub",
           "denom": "uatom"
         }
       }

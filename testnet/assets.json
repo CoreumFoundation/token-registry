@@ -26,7 +26,7 @@
             "extra": {}
         },
         {
-            "denom": "drop-testcore1mmpa2caapm9w5wtdsrzqhe7ndxg0032kzz3g5ju28m0kd6fav9cqtltf9c",
+            "denom": "drop-testcore1g0k5hk3k5x0q77vd8eu599epwv7mdu9n09sqyut24y3rk37ra2cqyu95c7",
             "description": "XRP from XRPL",
             "ibc_info": {},
             "logo_URIs": {
@@ -58,7 +58,7 @@
             }
         },
         {
-            "denom": "xrpl3f82438328-testcore1mmpa2caapm9w5wtdsrzqhe7ndxg0032kzz3g5ju28m0kd6fav9cqtltf9c",
+            "denom": "xrpl4c5ccc182a-testcore1g0k5hk3k5x0q77vd8eu599epwv7mdu9n09sqyut24y3rk37ra2cqyu95c7",
             "description": "SOLO from XRPL",
             "ibc_info": {},
             "logo_URIs": {
@@ -86,6 +86,38 @@
                     "source_chain": "XRPL",
                     "issuer": "rHZwvHEs56GCmHupwjA4RY7oPA3EoAJWuN",
                     "currency": "534F4C4F00000000000000000000000000000000"
+                }
+            }
+        },
+        {
+            "denom": "xrpl1526f485c0-testcore1g0k5hk3k5x0q77vd8eu599epwv7mdu9n09sqyut24y3rk37ra2cqyu95c7",
+            "description": "LOL from XRPL",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "",
+                "svg": ""
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "XRPL",
+                    "issuer": "r3KEN5rWJL9c4gaFv4ri46R9mxCQwZmDRF",
+                    "currency": "LOL"
                 }
             }
         },

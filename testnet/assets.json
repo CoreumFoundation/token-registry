@@ -115,6 +115,56 @@
             "extra": {}
         },
         {
+            "denom": "testdenom555-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
+            "description": "Test denom 555 from Coreum",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "",
+                "svg": ""
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {}
+        },
+        {
+            "denom": "testdenom666-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
+            "description": "Test denom 666 from Coreum",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "",
+                "svg": ""
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {}
+        },
+        {
             "denom": "xrpl1526f485c0-testcore1g0k5hk3k5x0q77vd8eu599epwv7mdu9n09sqyut24y3rk37ra2cqyu95c7",
             "description": "LOL from XRPL",
             "ibc_info": {},
@@ -143,6 +193,38 @@
                     "source_chain": "XRPL",
                     "issuer": "r3KEN5rWJL9c4gaFv4ri46R9mxCQwZmDRF",
                     "currency": "LOL"
+                }
+            }
+        },
+        {
+            "denom": "xrplcb9476a8c7-testcore1g0k5hk3k5x0q77vd8eu599epwv7mdu9n09sqyut24y3rk37ra2cqyu95c7",
+            "description": "NNN from XRPL",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "",
+                "svg": ""
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "XRPL",
+                    "issuer": "rftnBAK7rYGntrUWSMdA5SUn3hs4RV7tAV",
+                    "currency": "NNN"
                 }
             }
         },

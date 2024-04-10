@@ -165,6 +165,31 @@
             "extra": {}
         },
         {
+            "denom": "testdenom777-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
+            "description": "Test denom 777 from Coreum",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "",
+                "svg": ""
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {}
+        },
+        {
             "denom": "xrpl1526f485c0-testcore1g0k5hk3k5x0q77vd8eu599epwv7mdu9n09sqyut24y3rk37ra2cqyu95c7",
             "description": "LOL from XRPL",
             "ibc_info": {},

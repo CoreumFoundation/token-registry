@@ -91,3 +91,4 @@ The following JSON structure represents the essential metadata for OSMO as it is
     }
   }
 }
+```

@@ -55,6 +55,7 @@ Here are examples of how to structure your JSON entries for token registration:
     }
   }
 }
+```
 
 
 ### Coreum / Cosmos Originated Asset - OSMO from Osmosis

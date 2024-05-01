@@ -26,7 +26,7 @@
             "extra": {}
         },
         {
-            "denom": "drop-testcore1g0k5hk3k5x0q77vd8eu599epwv7mdu9n09sqyut24y3rk37ra2cqyu95c7",
+            "denom": "drop-testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",
             "description": "XRP from XRPL",
             "ibc_info": {},
             "logo_URIs": {
@@ -54,38 +54,6 @@
                     "source_chain": "XRPL",
                     "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
                     "currency": "XRP"
-                }
-            }
-        },
-        {
-            "denom": "xrpl4c5ccc182a-testcore1g0k5hk3k5x0q77vd8eu599epwv7mdu9n09sqyut24y3rk37ra2cqyu95c7",
-            "description": "SOLO from XRPL",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.svg"
-            },
-            "urls": {
-                "website": "",
-                "github": "",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "",
-                "instagram": "",
-                "facebook": "",
-                "discord": "",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            },
-            "extra": {
-                "xrpl_info": {
-                    "precision": 15,
-                    "source_chain": "XRPL",
-                    "issuer": "rHZwvHEs56GCmHupwjA4RY7oPA3EoAJWuN",
-                    "currency": "534F4C4F00000000000000000000000000000000"
                 }
             }
         },
@@ -190,8 +158,8 @@
             "extra": {}
         },
         {
-            "denom": "xrpl1526f485c0-testcore1g0k5hk3k5x0q77vd8eu599epwv7mdu9n09sqyut24y3rk37ra2cqyu95c7",
-            "description": "LOL from XRPL",
+            "denom": "xrpl93e5155cbd-testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",
+            "description": "PPP from XRPL",
             "ibc_info": {},
             "logo_URIs": {
                 "png": "",
@@ -216,40 +184,8 @@
                 "xrpl_info": {
                     "precision": 15,
                     "source_chain": "XRPL",
-                    "issuer": "r3KEN5rWJL9c4gaFv4ri46R9mxCQwZmDRF",
-                    "currency": "LOL"
-                }
-            }
-        },
-        {
-            "denom": "xrplcb9476a8c7-testcore1g0k5hk3k5x0q77vd8eu599epwv7mdu9n09sqyut24y3rk37ra2cqyu95c7",
-            "description": "NNN from XRPL",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "",
-                "svg": ""
-            },
-            "urls": {
-                "website": "",
-                "github": "",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "",
-                "instagram": "",
-                "facebook": "",
-                "discord": "",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            },
-            "extra": {
-                "xrpl_info": {
-                    "precision": 15,
-                    "source_chain": "XRPL",
-                    "issuer": "rftnBAK7rYGntrUWSMdA5SUn3hs4RV7tAV",
-                    "currency": "NNN"
+                    "issuer": "rf3ToWA2cULJM2tskHVvmxzyeu4HuKWBwk",
+                    "currency": "PPP"
                 }
             }
         },

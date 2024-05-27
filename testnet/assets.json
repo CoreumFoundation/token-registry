@@ -151,7 +151,14 @@
                 "telegram": "",
                 "tiktok": ""
             },
-            "extra": {}
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "Coreum",
+                    "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
+                    "currency": "636F7265756D3164366133353430613200000000"
+                }
+            }
         },
         {
             "denom": "testdenom777-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
@@ -176,7 +183,14 @@
                 "telegram": "",
                 "tiktok": ""
             },
-            "extra": {}
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "Coreum",
+                    "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
+                    "currency": "636F7265756D3135333661343931343300000000"
+                }
+            }
         },
         {
             "denom": "xrpl93e5155cbd-testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",

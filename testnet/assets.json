@@ -23,7 +23,14 @@
                 "telegram": "https://t.me/CoreumOfficial",
                 "tiktok": "https://www.tiktok.com/@sologenic.official"
             },
-            "extra": {}
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "Coreum",
+                    "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
+                    "currency": "636F7265756D3836663332343739333800000000"
+                }
+            }
         },
         {
             "denom": "drop-testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",
@@ -80,7 +87,14 @@
                 "telegram": "",
                 "tiktok": ""
             },
-            "extra": {}
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "Coreum",
+                    "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
+                    "currency": "636F7265756D6436376165353737353500000000"
+                }
+            }
         },
         {
             "denom": "testdenom555-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
@@ -105,7 +119,14 @@
                 "telegram": "",
                 "tiktok": ""
             },
-            "extra": {}
+            "extra": {
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "Coreum",
+                    "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
+                    "currency": "636F7265756D3130323836363435313300000000"
+                }
+            }
         },
         {
             "denom": "testdenom666-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
@@ -222,6 +243,12 @@
                     "precision": 6,
                     "source_chain": "Osmosistestnet",
                     "denom": "uosmo"
+                },
+                "xrpl_info": {
+                    "precision": 15,
+                    "source_chain": "Osmosis",
+                    "issuer": "testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",
+                    "currency": "636F7265756D3762633739656266333400000000"
                 }
             }
         }

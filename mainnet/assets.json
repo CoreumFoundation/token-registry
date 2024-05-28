@@ -23,7 +23,14 @@
         "telegram": "https://t.me/CoreumOfficial",
         "tiktok": "https://www.tiktok.com/@sologenic.official"
       },
-      "extra": {}
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "Coreum",
+          "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
+          "currency": "636F7265756D3763386562323965303700000000"
+        }
+      }
     },
     {
       "denom": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
@@ -43,7 +50,14 @@
         "instagram": "https://www.instagram.com/pulsara_io",
         "telegram": "https://t.me/pulsara_io"
       },
-      "extra": {}
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "Coreum",
+          "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
+          "currency": "636F7265756D3930356330393837333200000000"
+        }
+      }
     },
     {
       "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
@@ -270,6 +284,12 @@
           "precision": 6,
           "source_chain": "Noble",
           "denom": "uusdc"
+        },
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "Noble",
+          "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
+          "currency": "636F7265756D3331383639343735623200000000"
         }
       }
     },
@@ -306,6 +326,12 @@
           "precision": 6,
           "source_chain": "Osmosis",
           "denom": "uosmo"
+        },
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "Osmosis",
+          "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
+          "currency": "636F7265756D3161656339613265303900000000"
         }
       }
     },
@@ -558,6 +584,12 @@
           "precision": 6,
           "source_chain": "Kava",
           "denom": "erc20/tether/usdt"
+        },
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "Kava",
+          "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
+          "currency": "636F7265756D6462336464643138623400000000"
         }
       }
     },
@@ -594,6 +626,12 @@
           "precision": 6,
           "source_chain": "cosmoshub",
           "denom": "uatom"
+        },
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "Cosmos Hub",
+          "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
+          "currency": "636F7265756D3430623433626639656500000000"
         }
       }
     },

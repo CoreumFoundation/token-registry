@@ -2,6 +2,8 @@
   "assets": [
     {
       "denom": "ucore",
+      "token_name": "COREUM",
+      "decimals": 6,
       "description": "",
       "ibc_info": {},
       "logo_URIs": {
@@ -34,6 +36,8 @@
     },
     {
       "denom": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
+      "token_name": "SARA",
+      "decimals": 6,
       "description": "SARA is the utility native token of the Pulsara ecosystem. The burn or mint of the $SARA token will be decided by the community through proposals and voting.",
       "ibc_info": {},
       "logo_URIs": {
@@ -61,6 +65,8 @@
     },
     {
       "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "token_name": "XRP",
+      "decimals": 6,
       "description": "XRP bridged from XRPL",
       "ibc_info": {},
       "logo_URIs": {
@@ -93,6 +99,8 @@
     },
     {
       "denom": "xrpl11278ecf9e-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "token_name": "SOLO",
+      "decimals": 15,
       "description": "SOLO bridged from XRPL",
       "ibc_info": {},
       "logo_URIs": {
@@ -125,6 +133,8 @@
     },
     {
       "denom": "xrpl62a8252400-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "token_name": "ELS",
+      "decimals": 15,
       "description": "ELS bridged from XRPL",
       "ibc_info": {},
       "logo_URIs": {
@@ -157,6 +167,8 @@
     },
     {
       "denom": "xrpla81f3eb9f8-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "token_name": "VGB",
+      "decimals": 15,
       "description": "VGB bridged from XRPL",
       "ibc_info": {},
       "logo_URIs": {
@@ -189,6 +201,8 @@
     },
     {
       "denom": "xrpl691210a91a-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "token_name": "EQL",
+      "decimals": 15,
       "description": "Equilibrium Games bridged from XRPL",
       "ibc_info": {},
       "logo_URIs": {
@@ -221,6 +235,8 @@
     },
     {
       "denom": "xrpl2661e5b556-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "token_name": "OXP",
+      "decimals": 15,
       "description": "OXP bridged from XRPL",
       "ibc_info": {},
       "logo_URIs": {
@@ -253,6 +269,8 @@
     },
     {
       "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
+      "token_name": "USDC",
+      "decimals": 6,
       "description": "USD Coin from Noble",
       "ibc_info": {
         "display_name": "USDC",
@@ -295,6 +313,8 @@
     },
     {
       "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
+      "token_name": "OSMOS",
+      "decimals": 6,
       "description": "The native token of Osmosis",
       "ibc_info": {
         "display_name": "OSMO",
@@ -337,6 +357,8 @@
     },
     {
       "denom": "ibc/64ADA1661E3C1A4293E3BB15D5BD13012D0DB3D9002C117C30D7C429A32F4D51",
+      "token_name": "GRAV",
+      "decimals": 6,
       "description": "The native token of Gravity Bridge",
       "ibc_info": {
         "display_name": "GRAV",
@@ -373,6 +395,8 @@
     },
     {
       "denom": "ibc/AB305490F17ECCAE3F2B0398A572E0EFB3AF394B90C3A1663DA28C1F0869F624",
+      "token_name": "KUJI",
+      "decimals": 6,
       "description": "The native staking and governance token of the Kujira chain.",
       "ibc_info": {
         "display_name": "KUJI",
@@ -409,6 +433,8 @@
     },
     {
       "denom": "ibc/6D42727C323C8AF2821966C83E0708F0C17FB0B0DE38BA5E4D23F2EE7C0E9DDC",
+      "token_name": "BAND",
+      "decimals": 6,
       "description": "The native token of BandChain",
       "ibc_info": {
         "display_name": "BAND",
@@ -445,6 +471,8 @@
     },
     {
       "denom": "ibc/078EAF11288A47609FD894070CA8A1BFCEBD9E08745EA7030F95D7ADEE2E22CA",
+      "token_name": "EVMOS",
+      "decimals": 18,
       "description": "The native EVM, governance and staking token of the Evmos Hub",
       "ibc_info": {
         "display_name": "EVMOS",
@@ -481,6 +509,8 @@
     },
     {
       "denom": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
+      "token_name": "AXL",
+      "decimals": 6,
       "description": "The native token of Axelar",
       "ibc_info": {
         "display_name": "AXL",
@@ -517,6 +547,8 @@
     },
     {
       "denom": "ibc/12B178A885FC6891E0E09E1FB013973C5632B7093CE52D8F33B32E76E3BB6EA1",
+      "token_name": "KAVA",
+      "decimals": 6,
       "description": "The native staking and governance token of Kava.",
       "ibc_info": {
         "display_name": "KAVA",
@@ -553,6 +585,8 @@
     },
     {
       "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
+      "token_name": "USDT",
+      "decimals": 6,
       "description": "USDT from Kava",
       "ibc_info": {
         "display_name": "USDT",
@@ -595,6 +629,8 @@
     },
     {
       "denom": "ibc/45C001A5AE212D09879BE4627C45B64D5636086285590D5145A51E18E9D16722",
+      "token_name": "ATOM",
+      "decimals": 6,
       "description": "The native staking and governance token of the Cosmos Hub.",
       "ibc_info": {
         "display_name": "ATOM",
@@ -637,6 +673,8 @@
     },
     {
       "denom": "ibc/F8CA5236869F819BC006EEF088E67889A26E4140339757878F0F4E229CDDA858",
+      "token_name": "DYDX",
+      "decimals": 18,
       "description": "The native staking token of dYdX Protocol.",
       "ibc_info": {
         "display_name": "DYDX",

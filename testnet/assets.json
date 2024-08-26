@@ -27,13 +27,13 @@
                 "xrpl_info": {
                     "precision": 15,
                     "source_chain": "Coreum",
-                    "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
-                    "currency": "636F7265756D3836663332343739333800000000"
+                    "issuer": "rGqvKuwAo7yBJRxuRk9qEXnFUvE1yK1UVF",
+                    "currency": "636F7265756D3465386661386561623000000000"
                 }
             }
         },
         {
-            "denom": "drop-testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",
+            "denom": "drop-testcore1d90zv8wrwsalluqcezca22zds3dzvjj06fs0v88sh6shhven8pjsgq539p",
             "description": "XRP from XRPL",
             "ibc_info": {},
             "logo_URIs": {
@@ -262,7 +262,7 @@
                     "precision": 15,
                     "source_chain": "Osmosis",
                     "issuer": "testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",
-                    "currency": "636F7265756D3762633739656266333400000000"
+                    "currency": "636F7265756D3164663537323732383700000000"
                 }
             }
         }

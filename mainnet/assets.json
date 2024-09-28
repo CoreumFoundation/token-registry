@@ -64,6 +64,28 @@
       }
     },
     {
+      "denom": "ulicore-core13gza3msdh8hegqxhgezll9quucsr63s0gp43k274xwt66k4e8pmq5zpnm9",
+      "token_name": "liCORE",
+      "decimals": 6,
+      "description": "Liquid staking asset for COREUM, by Pulsara",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/pulsara/images/liCORE.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/pulsara/images/liCORE.svg"
+      },
+      "urls": {
+        "website": "https://www.pulsara.io/liquid-staking",
+        "github": "https://github.com/PulsaraIO",
+        "whitepaper": "https://www.pulsara.io/liquid-staking"
+      },
+      "social_media": {
+        "twitter": "https://twitter.com/pulsara_io",
+        "instagram": "https://www.instagram.com/pulsara_io",
+        "telegram": "https://t.me/pulsara_io"
+      },
+      "extra": {}
+    },
+    {
       "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
       "token_name": "XRP",
       "decimals": 6,

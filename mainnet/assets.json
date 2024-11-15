@@ -761,12 +761,6 @@
         "tiktok": ""
       },
       "extra": {
-        "ibc_info": {
-          "display_name": "SBC",
-          "precision": 6,
-          "source_chain": "coreum",
-          "denom": "usbc"
-        }
       }
     }
   ]

@@ -760,8 +760,29 @@
         "telegram": "",
         "tiktok": ""
       },
-      "extra": {
-      }
+      "extra": {}
+    },
+    {
+      "denom": "uccd-core1hnwd78wappjmgygyzr9mwspm7uzytrkcp9pfvv",
+      "token_name": "CCD",
+      "decimals": 6,
+      "description": "Rewards token designed to incentivize participation in Coreum Community DAO",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/ccd/images/ccd.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/ccd/images/ccd.svg"
+      },
+      "urls": {
+        "website": "https://coreumcommunitydao.com",
+        "github": "https://github.com/CoreumCommunityDAO",
+        "whitepaper": "https://medium.com/@info_25518/ccd-tokenomics-adb50832d2b4"
+      },
+      "social_media": {
+        "twitter": "https://x.com/Cor3_Community",
+        "telegram": "https://t.me/coreumcommunitydao",
+        "discord": "https://discord.com/invite/58nxD6PncQ"
+      },
+      "extra": {}
     }
   ]
 }

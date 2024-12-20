@@ -154,6 +154,40 @@
       }
     },
     {
+      "denom": "xrpl570c00a604-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "token_name": "RLUSD",
+      "decimals": 15,
+      "description": "RLUSD bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/rlusd/images/rlusd.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/rlusd/images/rlusd.svg"
+      },
+      "urls": {
+        "website": "https://ripple.com/solutions/stablecoin",
+        "github": "https://github.com/ripple/RLUSD-Implementation",
+        "whitepaper": "https://ripple.com/reports/rlusd-whitepaper.pdf"
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/rippleofficial/",
+        "twitter": "https://twitter.com/Ripple",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/rippleofficial/",
+        "discord": "http://bit.ly/3TPCWon",
+        "youtube": "https://www.youtube.com/@xrplf",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De",
+          "currency": "524C555344000000000000000000000000000000"
+        }
+      }
+    },
+    {
       "denom": "xrpl62a8252400-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
       "token_name": "ELS",
       "decimals": 15,

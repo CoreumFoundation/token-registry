@@ -817,6 +817,40 @@
         "discord": "https://discord.com/invite/58nxD6PncQ"
       },
       "extra": {}
+    },
+    {
+      "denom": "posse-core1j2xm0m6zf5as7t7tkycq9aeqntf8t68znzrnvk",
+      "token_name": "POSSE",
+      "decimals": 15,
+      "description": "POSSE Puppets",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://github.com/XRPosse/project_media/blob/main/possfingernail.png",
+        "svg": ""
+      },
+      "urls": {
+        "website": "https://xrposse.com/",
+        "github": "https://github.com/XRPosse",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://twitter.com/XRPosse",
+        "instagram": "",
+        "facebook": "",
+        "discord": "",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rGTDuhZSHvU57MiZXCdPeMurri3rsz7dph",
+          "currency": "POSSE"
+        },
+      }
     }
   ]
 }

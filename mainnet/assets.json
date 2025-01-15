@@ -825,7 +825,7 @@
       "description": "POSSE Puppets",
       "ibc_info": {},
       "logo_URIs": {
-        "png": "https://github.com/XRPosse/project_media/blob/main/possfingernail.png",
+        "png": "https://raw.githubusercontent.com/XRPosse/project_media/refs/heads/main/PFPBlack50o.jpg",
         "svg": ""
       },
       "urls": {
@@ -845,10 +845,10 @@
       },
       "extra": {
         "xrpl_info": {
-          "precision": 15,
-          "source_chain": "XRPL",
-          "issuer": "rGTDuhZSHvU57MiZXCdPeMurri3rsz7dph",
-          "currency": "POSSE"
+          "precision": ,
+          "source_chain": "",
+          "issuer": "",
+          "currency": ""
         },
       }
     }

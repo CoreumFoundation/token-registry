@@ -265,6 +265,41 @@
                     "currency": "636F7265756D3164663537323732383700000000"
                 }
             }
+        },
+        {
+            "denom": "uusdglo-testcore1dy5l3teqsvnwr6reeg9jm6f7mpcr45jy7fqgsr",
+            "description": "Glo Dollar",
+            "ibc_info": {
+                "display_name": "USDGLO",
+                "precision": 18,
+                "source_chain": "Coreum"
+            },
+            "logo_URIs": {
+                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/glodollar/images/usdglo.png",
+                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/glodollar/images/usdglo.svg"
+            },
+            "urls": {
+                "website": "https://glodollar.org",
+                "github": "https://github.com/Glo-Foundation"
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "https://twitter.com/glodollar",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "https://t.me/glodollarrr",
+                "tiktok": ""
+            },
+            "extra": {
+                "ibc_info": {
+                    "display_name": "USDGLO",
+                    "precision": 18,
+                    "source_chain": "coreumtestnet",
+                    "denom": "uusdglo"
+                }
+            }
         }
     ]
 }

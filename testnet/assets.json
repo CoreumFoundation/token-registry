@@ -291,14 +291,6 @@
                 "youtube": "",
                 "telegram": "https://t.me/glodollarrr",
                 "tiktok": ""
-            },
-            "extra": {
-                "ibc_info": {
-                    "display_name": "USDGLO",
-                    "precision": 18,
-                    "source_chain": "coreumtestnet",
-                    "denom": "uusdglo"
-                }
             }
         }
     ]

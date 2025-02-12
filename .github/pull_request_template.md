@@ -6,7 +6,7 @@ Please provide a brief description of the changes you are making in this PR.
 
 ## Author's Checklist ✅
 
-- [ ] **Chose the correct environment folder** (devnet/mainnet/testnet)
+- [ ] **Choose the correct environment folder** (devnet/mainnet/testnet)
 - [ ] **Verified JSON structure** (Check example: [Token Registry Examples](https://github.com/CoreumFoundation/token-registry?tab=readme-ov-file#examples))
 
 ### **Token Bridging**

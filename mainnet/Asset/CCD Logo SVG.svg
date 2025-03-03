@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1615.7 1190.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="414.8" y1="985.8" x2="1200.9" y2="199.8" gradientTransform="translate(0 1187.9) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0028c5"/>
+      <stop offset=".5" stop-color="#451dcd"/>
+      <stop offset="1" stop-color="#a50dda"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <circle class="cls-2" cx="807.8" cy="595.1" r="555.8"/>
+      <g>
+        <polygon class="cls-1" points="934.5 771.9 1225.1 481.6 1108.7 365.2 934.5 539.4 830.2 435.4 714.1 551.5 934.5 771.9"/>
+        <polygon class="cls-1" points="618 435.4 830.2 435.4 830.2 263.8 616.9 263.8 446.4 434.3 446.4 435.4 446.4 780.4 617.5 943.5 934.8 944.4 934.8 773 618 773 618 435.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

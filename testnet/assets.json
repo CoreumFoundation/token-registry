@@ -273,6 +273,7 @@
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/glodollar/images/usdglo.png",
                 "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/glodollar/images/usdglo.svg"
             },
+            "ibc_info": {},
             "urls": {
                 "website": "https://glodollar.org",
                 "github": "https://github.com/Glo-Foundation"
@@ -286,7 +287,8 @@
                 "youtube": "",
                 "telegram": "https://t.me/glodollarrr",
                 "tiktok": ""
-            }
+            },
+            "extra": {}
         }
     ]
 }

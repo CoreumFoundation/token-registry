@@ -289,6 +289,31 @@
                 "tiktok": ""
             },
             "extra": {}
+        },
+        {
+            "denom": "test1-testcore1733um244s5vqphp0v7ry84xyxvmm4mg68y09l6",
+            "description": "Test token to check features",
+            "ibc_info": {},
+            "logo_URIs": {
+                "png": "",
+                "svg": ""
+            },
+            "urls": {
+                "website": "",
+                "github": "",
+                "whitepaper": ""
+            },
+            "social_media": {
+                "linkedin": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "discord": "",
+                "youtube": "",
+                "telegram": "",
+                "tiktok": ""
+            },
+            "extra": {}
         }
     ]
 }

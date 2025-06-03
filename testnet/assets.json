@@ -2,7 +2,7 @@
     "assets": [
         {
             "denom": "utestcore",
-            "description": "",
+            "description": "COREUM is the native utility token of the Coreum blockchain, used for transaction fees, staking, and governance within the network. It powers all on-chain activities and secures the ecosystem through its Bonded Proof of Stake mechanism.",
             "ibc_info": {},
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",

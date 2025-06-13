@@ -1,294 +1,323 @@
 {
     "assets": [
-        {
-            "denom": "utestcore",
-            "description": "",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
-            },
-            "urls": {
-                "website": "https://www.coreum.com/",
-                "github": "https://github.com/CoreumFoundation/coreum",
-                "whitepaper": "https://www.coreum.com/assets/coreum_technical_paper.pdf"
-            },
-            "social_media": {
-                "linkedin": "https://www.linkedin.com/company/coreumofficial",
-                "twitter": "https://twitter.com/CoreumOfficial",
-                "instagram": "https://www.instagram.com/coreum.official/",
-                "facebook": "https://www.facebook.com/coreum_official",
-                "discord": "https://discord.gg/XdVAGKXEhg",
-                "youtube": "https://www.youtube.com/channel/UCIFix5W3gRgA4mSiXE268IA",
-                "telegram": "https://t.me/CoreumOfficial",
-                "tiktok": "https://www.tiktok.com/@sologenic.official"
-            },
-            "extra": {
-                "xrpl_info": {
-                    "precision": 15,
-                    "source_chain": "Coreum",
-                    "issuer": "rGqvKuwAo7yBJRxuRk9qEXnFUvE1yK1UVF",
-                    "currency": "636F7265756D3465386661386561623000000000"
-                }
-            }
+      {
+        "denom": "utestcore",
+        "description": "",
+        "ibc_info": {},
+        "logo_URIs": {
+          "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+          "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
         },
-        {
-            "denom": "drop-testcore1d90zv8wrwsalluqcezca22zds3dzvjj06fs0v88sh6shhven8pjsgq539p",
-            "description": "XRP from XRPL",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.svg"
-            },
-            "urls": {
-                "website": "https://ripple.com/",
-                "github": "https://github.com/ripple",
-                "whitepaper": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
-            },
-            "social_media": {
-                "linkedin": "https://www.linkedin.com/company/rippleofficial",
-                "twitter": "https://twitter.com/Ripple",
-                "instagram": "",
-                "facebook": "https://www.facebook.com/rippleofficial/",
-                "discord": "",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            },
-            "extra": {
-                "xrpl_info": {
-                    "precision": 6,
-                    "source_chain": "XRPL",
-                    "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
-                    "currency": "XRP"
-                }
-            }
+        "urls": {
+          "website": "https://www.coreum.com/",
+          "github": "https://github.com/CoreumFoundation/coreum",
+          "whitepaper": "https://www.coreum.com/assets/coreum_technical_paper.pdf"
         },
-        {
-            "denom": "testdenom444-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
-            "description": "Test denom 444 from Coreum",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "",
-                "svg": ""
-            },
-            "urls": {
-                "website": "",
-                "github": "",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "",
-                "instagram": "",
-                "facebook": "",
-                "discord": "",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            },
-            "extra": {
-                "xrpl_info": {
-                    "precision": 15,
-                    "source_chain": "Coreum",
-                    "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
-                    "currency": "636F7265756D6436376165353737353500000000"
-                }
-            }
+        "social_media": {
+          "linkedin": "https://www.linkedin.com/company/coreumofficial",
+          "twitter": "https://twitter.com/CoreumOfficial",
+          "instagram": "https://www.instagram.com/coreum.official/",
+          "facebook": "https://www.facebook.com/coreum_official",
+          "discord": "https://discord.gg/XdVAGKXEhg",
+          "youtube": "https://www.youtube.com/channel/UCIFix5W3gRgA4mSiXE268IA",
+          "telegram": "https://t.me/CoreumOfficial",
+          "tiktok": "https://www.tiktok.com/@sologenic.official"
         },
-        {
-            "denom": "testdenom555-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
-            "description": "Test denom 555 from Coreum",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "",
-                "svg": ""
-            },
-            "urls": {
-                "website": "",
-                "github": "",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "",
-                "instagram": "",
-                "facebook": "",
-                "discord": "",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            },
-            "extra": {
-                "xrpl_info": {
-                    "precision": 15,
-                    "source_chain": "Coreum",
-                    "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
-                    "currency": "636F7265756D3130323836363435313300000000"
-                }
-            }
-        },
-        {
-            "denom": "testdenom666-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
-            "description": "Test denom 666 from Coreum",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "",
-                "svg": ""
-            },
-            "urls": {
-                "website": "",
-                "github": "",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "",
-                "instagram": "",
-                "facebook": "",
-                "discord": "",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            },
-            "extra": {
-                "xrpl_info": {
-                    "precision": 15,
-                    "source_chain": "Coreum",
-                    "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
-                    "currency": "636F7265756D3164366133353430613200000000"
-                }
-            }
-        },
-        {
-            "denom": "testdenom777-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
-            "description": "Test denom 777 from Coreum",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "",
-                "svg": ""
-            },
-            "urls": {
-                "website": "",
-                "github": "",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "",
-                "instagram": "",
-                "facebook": "",
-                "discord": "",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            },
-            "extra": {
-                "xrpl_info": {
-                    "precision": 15,
-                    "source_chain": "Coreum",
-                    "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
-                    "currency": "636F7265756D3135333661343931343300000000"
-                }
-            }
-        },
-        {
-            "denom": "xrpl93e5155cbd-testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",
-            "description": "PPP from XRPL",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "",
-                "svg": ""
-            },
-            "urls": {
-                "website": "",
-                "github": "",
-                "whitepaper": ""
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "",
-                "instagram": "",
-                "facebook": "",
-                "discord": "",
-                "youtube": "",
-                "telegram": "",
-                "tiktok": ""
-            },
-            "extra": {
-                "xrpl_info": {
-                    "precision": 15,
-                    "source_chain": "XRPL",
-                    "issuer": "rf3ToWA2cULJM2tskHVvmxzyeu4HuKWBwk",
-                    "currency": "PPP"
-                }
-            }
-        },
-        {
-            "denom": "ibc/93E958C4F674E643BACC386C5D7473CEB1087E85DE6F1158920D9FC21A28960B",
-            "description": "OSMO from Osmosis",
-            "ibc_info": {
-                "display_name": "OSMO",
-                "precision": 6,
-                "source_chain": "Osmosis"
-            },
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.svg"
-            },
-            "urls": {
-                "website": "https://osmosis.zone",
-                "github": "https://github.com/osmosis-labs/osmosis",
-                "whitepaper": "https://medium.com/osmosis/vision-for-osmosis-e68e796ff1c2"
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/osmosiszone",
-                "instagram": "",
-                "facebook": "",
-                "discord": "https://discord.com/invite/osmosis",
-                "youtube": "",
-                "telegram": "https://t.me/osmosis_chat",
-                "tiktok": ""
-            },
-            "extra": {
-                "ibc_info": {
-                    "display_name": "OSMO",
-                    "precision": 6,
-                    "source_chain": "Osmosistestnet",
-                    "denom": "uosmo"
-                },
-                "xrpl_info": {
-                    "precision": 15,
-                    "source_chain": "Osmosis",
-                    "issuer": "testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",
-                    "currency": "636F7265756D3164663537323732383700000000"
-                }
-            }
-        },
-        {
-            "denom": "uusdglo-testcore1dy5l3teqsvnwr6reeg9jm6f7mpcr45jy7fqgsr",
-            "description": "Glo Dollar",
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/glodollar/images/usdglo.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/glodollar/images/usdglo.svg"
-            },
-            "ibc_info": {},
-            "urls": {
-                "website": "https://glodollar.org",
-                "github": "https://github.com/Glo-Foundation"
-            },
-            "social_media": {
-                "linkedin": "",
-                "twitter": "https://twitter.com/glodollar",
-                "instagram": "",
-                "facebook": "",
-                "discord": "",
-                "youtube": "",
-                "telegram": "https://t.me/glodollarrr",
-                "tiktok": ""
-            },
-            "extra": {}
+        "extra": {
+          "xrpl_info": {
+            "precision": 15,
+            "source_chain": "Coreum",
+            "issuer": "rGqvKuwAo7yBJRxuRk9qEXnFUvE1yK1UVF",
+            "currency": "636F7265756D3465386661386561623000000000"
+          }
         }
+      },
+      {
+        "denom": "drop-testcore1d90zv8wrwsalluqcezca22zds3dzvjj06fs0v88sh6shhven8pjsgq539p",
+        "description": "XRP from XRPL",
+        "ibc_info": {},
+        "logo_URIs": {
+          "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.png",
+          "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.svg"
+        },
+        "urls": {
+          "website": "https://ripple.com/",
+          "github": "https://github.com/ripple",
+          "whitepaper": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
+        },
+        "social_media": {
+          "linkedin": "https://www.linkedin.com/company/rippleofficial",
+          "twitter": "https://twitter.com/Ripple",
+          "instagram": "",
+          "facebook": "https://www.facebook.com/rippleofficial/",
+          "discord": "",
+          "youtube": "",
+          "telegram": "",
+          "tiktok": ""
+        },
+        "extra": {
+          "xrpl_info": {
+            "precision": 6,
+            "source_chain": "XRPL",
+            "issuer": "rrrrrrrrrrrrrrrrrrrrrhoLvTp",
+            "currency": "XRP"
+          }
+        }
+      },
+      {
+        "denom": "testdenom444-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
+        "description": "Test denom 444 from Coreum",
+        "ibc_info": {},
+        "logo_URIs": {
+          "png": "",
+          "svg": ""
+        },
+        "urls": {
+          "website": "",
+          "github": "",
+          "whitepaper": ""
+        },
+        "social_media": {
+          "linkedin": "",
+          "twitter": "",
+          "instagram": "",
+          "facebook": "",
+          "discord": "",
+          "youtube": "",
+          "telegram": "",
+          "tiktok": ""
+        },
+        "extra": {
+          "xrpl_info": {
+            "precision": 15,
+            "source_chain": "Coreum",
+            "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
+            "currency": "636F7265756D6436376165353737353500000000"
+          }
+        }
+      },
+      {
+        "denom": "testdenom555-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
+        "description": "Test denom 555 from Coreum",
+        "ibc_info": {},
+        "logo_URIs": {
+          "png": "",
+          "svg": ""
+        },
+        "urls": {
+          "website": "",
+          "github": "",
+          "whitepaper": ""
+        },
+        "social_media": {
+          "linkedin": "",
+          "twitter": "",
+          "instagram": "",
+          "facebook": "",
+          "discord": "",
+          "youtube": "",
+          "telegram": "",
+          "tiktok": ""
+        },
+        "extra": {
+          "xrpl_info": {
+            "precision": 15,
+            "source_chain": "Coreum",
+            "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
+            "currency": "636F7265756D3130323836363435313300000000"
+          }
+        }
+      },
+      {
+        "denom": "testdenom666-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
+        "description": "Test denom 666 from Coreum",
+        "ibc_info": {},
+        "logo_URIs": {
+          "png": "",
+          "svg": ""
+        },
+        "urls": {
+          "website": "",
+          "github": "",
+          "whitepaper": ""
+        },
+        "social_media": {
+          "linkedin": "",
+          "twitter": "",
+          "instagram": "",
+          "facebook": "",
+          "discord": "",
+          "youtube": "",
+          "telegram": "",
+          "tiktok": ""
+        },
+        "extra": {
+          "xrpl_info": {
+            "precision": 15,
+            "source_chain": "Coreum",
+            "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
+            "currency": "636F7265756D3164366133353430613200000000"
+          }
+        }
+      },
+      {
+        "denom": "testdenom777-testcore1sqms6kyel3kvpcm5a5rt3dwheh957hnamewjmw",
+        "description": "Test denom 777 from Coreum",
+        "ibc_info": {},
+        "logo_URIs": {
+          "png": "",
+          "svg": ""
+        },
+        "urls": {
+          "website": "",
+          "github": "",
+          "whitepaper": ""
+        },
+        "social_media": {
+          "linkedin": "",
+          "twitter": "",
+          "instagram": "",
+          "facebook": "",
+          "discord": "",
+          "youtube": "",
+          "telegram": "",
+          "tiktok": ""
+        },
+        "extra": {
+          "xrpl_info": {
+            "precision": 15,
+            "source_chain": "Coreum",
+            "issuer": "rBXWdFeTE1UU2SVwjSJtw3s8RZ3SnniHEp",
+            "currency": "636F7265756D3135333661343931343300000000"
+          }
+        }
+      },
+      {
+        "denom": "xrpl93e5155cbd-testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",
+        "description": "PPP from XRPL",
+        "ibc_info": {},
+        "logo_URIs": {
+          "png": "",
+          "svg": ""
+        },
+        "urls": {
+          "website": "",
+          "github": "",
+          "whitepaper": ""
+        },
+        "social_media": {
+          "linkedin": "",
+          "twitter": "",
+          "instagram": "",
+          "facebook": "",
+          "discord": "",
+          "youtube": "",
+          "telegram": "",
+          "tiktok": ""
+        },
+        "extra": {
+          "xrpl_info": {
+            "precision": 15,
+            "source_chain": "XRPL",
+            "issuer": "rf3ToWA2cULJM2tskHVvmxzyeu4HuKWBwk",
+            "currency": "PPP"
+          }
+        }
+      },
+      {
+        "denom": "ibc/93E958C4F674E643BACC386C5D7473CEB1087E85DE6F1158920D9FC21A28960B",
+        "description": "OSMO from Osmosis",
+        "ibc_info": {
+          "display_name": "OSMO",
+          "precision": 6,
+          "source_chain": "Osmosis"
+        },
+        "logo_URIs": {
+          "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.png",
+          "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.svg"
+        },
+        "urls": {
+          "website": "https://osmosis.zone",
+          "github": "https://github.com/osmosis-labs/osmosis",
+          "whitepaper": "https://medium.com/osmosis/vision-for-osmosis-e68e796ff1c2"
+        },
+        "social_media": {
+          "linkedin": "",
+          "twitter": "https://twitter.com/osmosiszone",
+          "instagram": "",
+          "facebook": "",
+          "discord": "https://discord.com/invite/osmosis",
+          "youtube": "",
+          "telegram": "https://t.me/osmosis_chat",
+          "tiktok": ""
+        },
+        "extra": {
+          "ibc_info": {
+            "display_name": "OSMO",
+            "precision": 6,
+            "source_chain": "Osmosistestnet",
+            "denom": "uosmo"
+          },
+          "xrpl_info": {
+            "precision": 15,
+            "source_chain": "Osmosis",
+            "issuer": "testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",
+            "currency": "636F7265756D3164663537323732383700000000"
+          }
+        }
+      },
+      {
+        "denom": "uusdglo-testcore1dy5l3teqsvnwr6reeg9jm6f7mpcr45jy7fqgsr",
+        "description": "Glo Dollar",
+        "logo_URIs": {
+          "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/glodollar/images/usdglo.png",
+          "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/glodollar/images/usdglo.svg"
+        },
+        "ibc_info": {},
+        "urls": {
+          "website": "https://glodollar.org",
+          "github": "https://github.com/Glo-Foundation"
+        },
+        "social_media": {
+          "linkedin": "",
+          "twitter": "https://twitter.com/glodollar",
+          "instagram": "",
+          "facebook": "",
+          "discord": "",
+          "youtube": "",
+          "telegram": "https://t.me/glodollarrr",
+          "tiktok": ""
+        },
+        "extra": {}
+      },
+      {
+        "denom": "uroll-testcore1qwe5yk6j4vafeey4g4v5azlfdpr822tgzw35zwjkd5rev4snuxxqau97us",
+        "token_name": "ROLL",
+        "decimals": 15,
+        "description": "ROLL from XRPL",
+        "logo_URIs": {
+          "png": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.png",
+          "svg": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.svg"
+        },
+        "ibc_info": {},
+        "urls": {
+          "website": "https://rollwithsolo.com",
+          "github": "https://github.com/ExegesisVentures",
+          "whitepaper": ""
+        },
+        "social_media": {
+          "linkedin": "",
+          "twitter": "https://x.com/ROLL2EARN",
+          "instagram": "",
+          "facebook": "",
+          "discord": "",
+          "youtube": "",
+          "telegram": "",
+          "tiktok": ""
+        },
+        "extra": {}
+      }
     ]
-}
+  }
+  
+  

@@ -817,6 +817,41 @@
         "discord": "https://discord.com/invite/58nxD6PncQ"
       },
       "extra": {}
+    },
+    {
+      "denom": "uroll-core156x90e9uewqdreg66nddmw99t9d90a5wth3jj4tpvazdgsc9ftwswmzs9m",
+      "token_name": "ROLL",
+      "decimals": 15,
+      "description": "ROLL bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.png",
+        "svg": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.svg"
+      },
+      "urls": {
+        "website": "https://rollwithsolo.com",
+        "github": "https://github.com/ExegesisVentures",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://x.com/ROLL2EARN",
+        "instagram": "",
+        "facebook": "",
+        "discord": "",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rPWxBmM3xngcKxKhufZVpFesoCeELLiXfA",
+          "currency": "524F4C4C00000000000000000000000000000000"
+        }
+      }
     }
   ]
 }
+

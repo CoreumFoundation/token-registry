@@ -817,6 +817,40 @@
         "discord": "https://discord.com/invite/58nxD6PncQ"
       },
       "extra": {}
+    },
+    {
+      "denom": "",
+      "token_name": "SIGMA",
+      "decimals": 15,
+      "description": "SIGMA bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sigma/images/sigma.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sigma/images/sigma.svg"
+      },
+      "urls": {
+        "website": "https://sigmaonxrpl.com/",
+        "github": "",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://x.com/sigmaonxrpl",
+        "instagram": "",
+        "facebook": "",
+        "discord": "",
+        "youtube": "",
+        "telegram": "https://t.me/SIGMA_on_XRP",
+        "tiktok": "https://www.tiktok.com/@sigmaonxrpl"
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rfKYWZ84fm9eVEdoTcsQCo1WdqMPyaUF5z",
+          "currency": "5349474D41000000000000000000000000000000"
+        }
+      }
     }
   ]
 }

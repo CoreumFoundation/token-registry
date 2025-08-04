@@ -851,6 +851,28 @@
           "currency": "5349474D41000000000000000000000000000000"
         }
       }
+    },
+    {
+      "denom": "ucat-core129pfw890e2e0c7p4uw04z88zjfudm2zydcd7zj4jj9lr492t4mws89skd6",
+      "token_name": "CAT",
+      "decimals": 6,
+      "description": "When in doubt, be like Bobcat.",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bobcat/images/bobcat.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bobcat/images/bobcat.svg"
+      },
+      "urls": {
+        "website": "https://bob-cat.fun",
+        "github": "",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "twitter": "https://x.com/bobcatoncoreum",
+        "telegram": "https://t.me/belikebobcatmeme",
+        "discord": ""
+      },
+      "extra": {}
     }
   ]
 }

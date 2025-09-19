@@ -819,7 +819,7 @@
       "extra": {}
     },
     {
-      "denom": "",
+      "denom": "xrpl573a95c3ab-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
       "token_name": "SIGMA",
       "decimals": 15,
       "description": "SIGMA bridged from XRPL",

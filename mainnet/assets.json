@@ -872,7 +872,14 @@
         "telegram": "https://t.me/belikebobcatmeme",
         "discord": ""
       },
-      "extra": {}
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "Coreum",
+          "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
+          "currency": "636F7265756D6139336233353935336500000000"
+        }
+      }
     },
     {
       "denom": "ucozy-core19w7yasdscfu09un47h8vf5rfjshwug2kgrplkwtfdrrgjzrld82sc7f494",

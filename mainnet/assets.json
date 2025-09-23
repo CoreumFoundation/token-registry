@@ -819,7 +819,7 @@
       "extra": {}
     },
     {
-      "denom": "uroll-core156x90e9uewqdreg66nddmw99t9d90a5wth3jj4tpvazdgsc9ftwswmzs9m",
+      "denom": "xrpl11f82115a5-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
       "token_name": "ROLL",
       "decimals": 15,
       "description": "ROLL bridged from XRPL",

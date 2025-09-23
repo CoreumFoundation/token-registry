@@ -817,6 +817,69 @@
         "discord": "https://discord.com/invite/58nxD6PncQ"
       },
       "extra": {}
+    },
+    {
+      "denom": "xrpl573a95c3ab-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "token_name": "SIGMA",
+      "decimals": 15,
+      "description": "SIGMA bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sigma/images/sigma.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sigma/images/sigma.svg"
+      },
+      "urls": {
+        "website": "https://sigmaonxrpl.com/",
+        "github": "",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://x.com/sigmaonxrpl",
+        "instagram": "",
+        "facebook": "",
+        "discord": "",
+        "youtube": "",
+        "telegram": "https://t.me/SIGMA_on_XRP",
+        "tiktok": "https://www.tiktok.com/@sigmaonxrpl"
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rfKYWZ84fm9eVEdoTcsQCo1WdqMPyaUF5z",
+          "currency": "5349474D41000000000000000000000000000000"
+        }
+      }
+    },
+    {
+      "denom": "ucat-core129pfw890e2e0c7p4uw04z88zjfudm2zydcd7zj4jj9lr492t4mws89skd6",
+      "token_name": "CAT",
+      "decimals": 6,
+      "description": "When in doubt, be like Bobcat.",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bobcat/images/bobcat.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bobcat/images/bobcat.svg"
+      },
+      "urls": {
+        "website": "https://bob-cat.fun",
+        "github": "",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "twitter": "https://x.com/bobcatoncoreum",
+        "telegram": "https://t.me/belikebobcatmeme",
+        "discord": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "Coreum",
+          "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
+          "currency": "636F7265756D6139336233353935336500000000"
+        }
+      }
     }
   ]
 }

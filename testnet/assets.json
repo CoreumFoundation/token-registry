@@ -289,6 +289,33 @@
                 "tiktok": ""
             },
             "extra": {}
+        },
+        {
+            "denom": "uroll-testcore1qwe5yk6j4vafeey4g4v5azlfdpr822tgzw35zwjkd5rev4snuxxqau97us",
+            "token_name": "ROLL",
+            "decimals": 15,
+            "description": "ROLL from XRPL",
+            "logo_URIs": {
+              "png": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.png",
+              "svg": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.svg"
+            },
+            "ibc_info": {},
+            "urls": {
+              "website": "https://rollwithsolo.com",
+              "github": "https://github.com/ExegesisVentures",
+              "whitepaper": ""
+            },
+            "social_media": {
+              "linkedin": "",
+              "twitter": "https://x.com/ROLL2EARN",
+              "instagram": "",
+              "facebook": "",
+              "discord": "",
+              "youtube": "",
+              "telegram": "",
+              "tiktok": ""
+            },
+            "extra": {}
         }
     ]
 }

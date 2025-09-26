@@ -880,6 +880,40 @@
           "currency": "636F7265756D6139336233353935336500000000"
         }
       }
+    },
+    {
+      "denom": "xrpl11f82115a5-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+      "token_name": "ROLL",
+      "decimals": 15,
+      "description": "ROLL bridged from XRPL",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.png",
+        "svg": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.svg"
+      },
+      "urls": {
+        "website": "https://rollwithsolo.com",
+        "github": "https://github.com/ExegesisVentures",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "",
+        "twitter": "https://x.com/ROLL2EARN",
+        "instagram": "",
+        "facebook": "",
+        "discord": "",
+        "youtube": "",
+        "telegram": "",
+        "tiktok": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "rPWxBmM3xngcKxKhufZVpFesoCeELLiXfA",
+          "currency": "524F4C4C00000000000000000000000000000000"
+        }
+      }
     }
   ]
 }

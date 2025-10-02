@@ -819,7 +819,7 @@
       "extra": {}
     },
    {
-  "denom": "xrpl-placeholder-for-bwif-denom",
+  "denom": "xrpl64430c4512-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
   "token_name": "bwif",
   "decimals": 15,
   "description": "bwif from XRPL",

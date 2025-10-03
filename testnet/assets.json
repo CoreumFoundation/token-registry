@@ -2,7 +2,7 @@
     "assets": [
         {
             "denom": "utestcore",
-            "description": "",
+            "description": "COREUM is the native utility token of the Coreum blockchain, used for transaction fees, staking, and governance within the network. It powers all on-chain activities and secures the ecosystem through its Bonded Proof of Stake mechanism.",
             "ibc_info": {},
             "logo_URIs": {
                 "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
@@ -287,6 +287,33 @@
                 "youtube": "",
                 "telegram": "https://t.me/glodollarrr",
                 "tiktok": ""
+            },
+            "extra": {}
+        },
+        {
+            "denom": "uroll-testcore1qwe5yk6j4vafeey4g4v5azlfdpr822tgzw35zwjkd5rev4snuxxqau97us",
+            "token_name": "ROLL",
+            "decimals": 15,
+            "description": "ROLL from XRPL",
+            "logo_URIs": {
+              "png": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.png",
+              "svg": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.svg"
+            },
+            "ibc_info": {},
+            "urls": {
+              "website": "https://rollwithsolo.com",
+              "github": "https://github.com/ExegesisVentures",
+              "whitepaper": ""
+            },
+            "social_media": {
+              "linkedin": "",
+              "twitter": "https://x.com/ROLL2EARN",
+              "instagram": "",
+              "facebook": "",
+              "discord": "",
+              "youtube": "",
+              "telegram": "",
+              "tiktok": ""
             },
             "extra": {}
         }

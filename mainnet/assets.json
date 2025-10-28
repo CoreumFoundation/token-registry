@@ -922,8 +922,8 @@
       "description": "bwif from XRPL",
       "ibc_info": {},
       "logo_URIs": {
-        "png": "https://peach-imaginative-perch-808.mypinata.cloud/ipfs/bafkreihswy5uqssukvdqyr43w3qzrzamababp3uotoudpdcm4oaww4r5pi",
-        "svg": "https://peach-imaginative-perch-808.mypinata.cloud/ipfs/bafybeicmxjbhveqbakpcozimkhxx5wir4ri37ksiolmqbjwep5hvuwrj3q"
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bwif/images/bwif.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bwif/images/bwif.svg"
       },
       "urls": {
         "website": "https://bwif.meme"

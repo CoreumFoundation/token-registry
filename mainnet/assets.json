@@ -423,7 +423,7 @@
       },
       "logo_URIs": {
         "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/gravitybridge/images/grav.png",
-        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/gravitybridge/images//grav.svg"
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/gravitybridge/images/grav.svg"
       },
       "urls": {
         "website": "https://www.gravitybridge.net/",
@@ -776,8 +776,8 @@
         "source_chain": "Coreum"
       },
       "logo_URIs": {
-        "png": "https://brale.xyz/assets/stablecoins/sbc-logo.png",
-        "svg": "https://brale.xyz/assets/stablecoins/sbc-logo.svg"
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sbc/images/sbc.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sbc/images/sbc.svg"
       },
       "urls": {
         "website": "https://stablecoin.xyz/",
@@ -888,8 +888,8 @@
       "description": "ROLL bridged from XRPL",
       "ibc_info": {},
       "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.png",
-        "svg": "https://raw.githubusercontent.com/0xRasmp/roll-assets/main/logo.svg"
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/roll/images/roll.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/roll/images/roll.svg"
       },
       "urls": {
         "website": "https://rollwithsolo.com",

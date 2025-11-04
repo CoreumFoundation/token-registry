@@ -776,8 +776,8 @@
         "source_chain": "Coreum"
       },
       "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sbc/images/sbc.png",
-        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sbc/images/sbc.svg"
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sbc/images/sbc-logo.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sbc/images/sbc-logo.svg"
       },
       "urls": {
         "website": "https://stablecoin.xyz/",

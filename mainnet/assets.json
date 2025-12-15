@@ -939,6 +939,35 @@
           "currency": "6277696600000000000000000000000000000000"
         }
       }
+    },
+    {
+      "denom": "umart-core1e5zxd9z4mz0t60he3mdw3fc499nz9jgzk9xwfvmkf440gtmsrkaqwsh75a",
+      "token_name": "MART",
+      "decimals": 6,
+      "description": "The smart meme token celebrating Coreum's smart token technology, education through memes. Tokenized brilliance.",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/mart/images/mart.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/mart/images/mart.svg"
+      },
+      "urls": {
+        "website": "https://smartmemetoken.com",
+        "github": "",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "twitter": "https://x.com/smartmemetoken",
+        "telegram": "https://t.me/smartmemetoken",
+        "discord": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "Coreum",
+          "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
+          "currency": "*TBD*"
+        }
+      }
     }
   ]
 }

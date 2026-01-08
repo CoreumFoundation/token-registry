@@ -968,6 +968,35 @@
           "currency": "*TBD*"
         }
       }
+    },
+    {
+      "denom": "ucozy-core19w7yasdscfu09un47h8vf5rfjshwug2kgrplkwtfdrrgjzrld82sc7f494",
+      "token_name": "COZY",
+      "decimals": 6,
+      "description": "Coziest cat on coreum",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cozy/images/cozy.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cozy/images/cozy.svg"
+      },
+      "urls": {
+        "website": "https://www.cozyoncoreum.com",
+        "github": "",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "twitter": "https://x.com/cozyoncoreum",
+        "telegram": "https://t.me/CozyOnCoreum",
+        "discord": ""
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "Coreum",
+          "issuer": "TBD",
+          "currency": "TBD"
+        }
+      }
     }
   ]
 }

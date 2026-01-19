@@ -997,6 +997,27 @@
           "currency": "636F7265756D3662326262646433316500000000"
         }
       }
+    },
+    {
+      "denom": "ucorez-core1astd8pqhs7mslk9rnygy9kzc5s2cqnwftcvmquxr7z9z78szzvzqljlc23",
+      "token_name": "COREZ",
+      "decimals": 6,
+      "description": "COREZ is the community passport token for the Coreezy ecosystem on Coreum. It grants vault drip eligibility, Sloth Race boosts, and access to partner perks.",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/corez/images/corez.png"
+      },
+      "urls": {
+        "website": "https://coreezy.xyz",
+        "github": "",
+        "whitepaper": "https://coreezy.xyz/white-paper"
+      },
+      "social_media": {
+        "twitter": "https://x.com/coaborative",
+        "telegram": "",
+        "discord": ""
+      },
+      "extra": {}
     }
   ]
 }

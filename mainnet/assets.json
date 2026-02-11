@@ -1005,7 +1005,8 @@
       "description": "COREZ is the community passport token for the Coreezy ecosystem on Coreum. It grants vault drip eligibility, Sloth Race boosts, and access to partner perks.",
       "ibc_info": {},
       "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/corez/images/corez.png"
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/corez/images/corez.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/corez/images/corez.svg"
       },
       "urls": {
         "website": "https://coreezy.xyz",

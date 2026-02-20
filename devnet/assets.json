@@ -1,29 +1,31 @@
 {
-    "assets": [
-        {
-            "denom": "udevcore",
-            "description": "COREUM is the native utility token of the Coreum blockchain, used for transaction fees, staking, and governance within the network. It powers all on-chain activities and secures the ecosystem through its Bonded Proof of Stake mechanism.",
-            "ibc_info": {},
-            "logo_URIs": {
-                "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
-                "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
-            },
-            "urls": {
-                "website": "https://www.coreum.com/",
-                "github": "https://github.com/CoreumFoundation/coreum",
-                "whitepaper": "https://www.coreum.com/assets/coreum_technical_paper.pdf"
-            },
-            "social_media": {
-                "linkedin": "https://www.linkedin.com/company/coreumofficial",
-                "twitter": "https://twitter.com/CoreumOfficial",
-                "instagram": "https://www.instagram.com/coreum.official/",
-                "facebook": "https://www.facebook.com/coreum_official",
-                "discord": "https://discord.gg/XdVAGKXEhg",
-                "youtube": "https://www.youtube.com/channel/UCIFix5W3gRgA4mSiXE268IA",
-                "telegram": "https://t.me/CoreumOfficial",
-                "tiktok": "https://www.tiktok.com/@sologenic.official"
-            },
-            "extra": {}
-        }
-    ]
+  "assets": [
+    {
+      "denom": "udevcore",
+      "token_name": "TX",
+      "decimals": 6,
+      "description": "TX is the native utility token of the TX blockchain, used for transaction fees, staking, and governance within the network. It powers all on-chain activities and secures the ecosystem through its Bonded Proof of Stake mechanism.",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+      },
+      "urls": {
+        "website": "https://www.coreum.com/",
+        "github": "https://github.com/CoreumFoundation/coreum",
+        "whitepaper": "https://www.coreum.com/assets/coreum_technical_paper.pdf"
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/coreumofficial",
+        "twitter": "https://twitter.com/CoreumOfficial",
+        "instagram": "https://www.instagram.com/coreum.official/",
+        "facebook": "https://www.facebook.com/coreum_official",
+        "discord": "https://discord.gg/XdVAGKXEhg",
+        "youtube": "https://www.youtube.com/channel/UCIFix5W3gRgA4mSiXE268IA",
+        "telegram": "https://t.me/CoreumOfficial",
+        "tiktok": "https://www.tiktok.com/@sologenic.official"
+      },
+      "extra": {}
+    }
+  ]
 }

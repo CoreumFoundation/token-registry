@@ -1,22 +1,52 @@
 {
-  "assets": [
-    {
-      "denom": "udevcore",
-      "token_name": "TX",
-      "decimals": 6,
-      "description": "TX is the native utility token of the TX blockchain, used for transaction fees, staking, and governance within the network. It powers all on-chain activities and secures the ecosystem through its Bonded Proof of Stake mechanism.",
-      "ibc_info": {},
-      "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/tx/images/tx.png",
-        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/tx/images/tx.svg"
-      },
-      "urls": {
-        "website": "https://tx.org/",
-        "github": "https://github.com/tokenize-x/tx-chain",
-        "whitepaper": "https://download.tx.org/Whitepaper.pdf"
-      },
-      "social_media": {},
-      "extra": {}
-    }
-  ]
-}
+    "assets":[
+       {
+          "denom":"udevcore",
+          "token_name":"TX",
+          "decimals":6,
+          "description":"TX is the native utility token of the TX blockchain, used for transaction fees, staking, and governance within the network. It powers all on-chain activities and secures the ecosystem through its Bonded Proof of Stake mechanism.",
+          "ibc_info":{
+             
+          },
+          "logo_URIs":{
+             "png":"https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/tx/images/tx.png",
+             "svg":"https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/tx/images/tx.svg"
+          },
+          "urls":{
+             "website":"https://tx.org/",
+             "github":"https://github.com/tokenize-x/tx-chain",
+             "whitepaper":"https://download.tx.org/Whitepaper.pdf"
+          },
+          "social_media":{
+             
+          },
+          "extra":{
+             
+          }
+       },
+       {
+          "denom":"test1-devcore1tna23dyzyk2n0zf63fu6twxqpn7urs3g40sj9z",
+          "token_name":"TEST1",
+          "decimals":6,
+          "description":"Test token",
+          "ibc_info":{
+             
+          },
+          "logo_URIs":{
+             "png":"https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/tx/images/tx.png",
+             "svg":"https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/tx/images/tx.svg"
+          },
+          "urls":{
+             "website":"https://tx.org/",
+             "github":"https://github.com/tokenize-x/tx-chain",
+             "whitepaper":"https://download.tx.org/Whitepaper.pdf"
+          },
+          "social_media":{
+             
+          },
+          "extra":{
+             
+          }
+       }
+    ]
+ }

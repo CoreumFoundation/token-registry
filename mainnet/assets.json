@@ -1015,6 +1015,32 @@
         "discord": ""
       },
       "extra": {}
+    },
+    {
+      "denom": "uustx-core1rfxrg75fzuq5hgnnymjgsxj70d9w9cs8xuza7x",
+      "token_name": "USTX",
+      "decimals": 6,
+      "description": "USD-backed stablecoin issued by Brale",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/ustx/images/ustx.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/ustx/images/ustx.svg"
+      },
+      "urls": {
+        "website": "https://tx.org/",
+        "github": "https://github.com/tokenize-x/tx-ustx",
+        "whitepaper": ""
+      },
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/tx-ecosystem/",
+        "twitter": "https://x.com/txEcosystem",
+        "instagram": "https://www.instagram.com/txecosystem?igsh=MTk4MmpmdmtoaWx4Mg==",
+        "discord": "",
+        "youtube": "https://www.youtube.com/@txEcosystem",
+        "telegram": "https://t.me/+q0fGCpknxeRjMTVh",
+        "medium": "https://medium.com/@txEcosystem"
+      },
+      "extra": {}
     }
   ]
 }

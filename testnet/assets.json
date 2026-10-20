@@ -179,7 +179,7 @@
       "denom": "uustx-testcore1dy5l3teqsvnwr6reeg9jm6f7mpcr45jy7fqgsr",
       "token_name": "USTX",
       "decimals": 6,
-      "description": "USD-backed stablecoin issued by Brale",
+      "description": "USD-backed stablecoin issued by Brale in partnership with TX.",
       "ibc_info": {},
       "logo_URIs": {
         "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/ustx/images/ustx.png",
